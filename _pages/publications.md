@@ -1,7 +1,7 @@
 ---
 title: "Publications [(Publication List on Google Scholar)](https://scholar.google.co.kr/citations?user=ZSEye9QAAAAJ&hl=ko)"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 
