@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-author_profile: true
+author_profile: false
 ---
 
 ## Professor
