@@ -22,7 +22,7 @@ author_profile: true
 ### Conference Papers
 
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i>in Proc. ICCV</i>, Venice, Italy, Oct. 2017. </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i><span style="color:red">in Proc. ICCV</span></i>, Venice, Italy, Oct. 2017. </font>
 
 1. <font size="3em" color="black"> Chang-Su Kim, Whan Choi, and <b>Se-Ho Lee</b>, "Video codec classification for video bitstreams," <i>in Proc. ITC-CSCC</i>, Busan, Korea, Jul. 2017. </font>
 
