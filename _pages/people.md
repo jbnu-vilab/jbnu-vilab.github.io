@@ -10,8 +10,8 @@ author_profile: false
 </div>
 <div style="width:600px; height:320px; float:left;">
  <p style="line-height: 1.5;"><b>Seho Lee (이세호)</b></p>
-<p style="line-height: 1.5;"><b>Assistant Professor (이세호)</b></p>
-<p style="line-height: 1.5;"><b>seholee@jbnu.ac.kr (이세호)</b></p>
+<p style="line-height: 1.5;"><b>Assistant Professor</b></p>
+<p style="line-height: 1.5;"><b>seholee@jbnu.ac.kr</b></p>
 </div>
 
 
