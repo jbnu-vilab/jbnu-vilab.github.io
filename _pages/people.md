@@ -4,4 +4,4 @@ permalink: /people/
 author_profile: true
 ---
 ## Professor
-**Seho Lee
+<b>Seho Lee</b>
