@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Seho Lee"
-  avatar           : "Seho_Lee.jpg"
+  avatar           : "Seho_Lee.png"
   bio              : "Assistant Professor, Jeonbuk National University"
-  location         : "Jeonju-si, Jeollabuk-do, Republic of Korea"
+  location         : "Jeonju-si, Jeollabuk-do, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.co.kr/citations?user=ZSEye9QAAAAJ&hl=ko"
   email            : "seholee@jbnu.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
