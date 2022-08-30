@@ -10,9 +10,9 @@ author_profile: false
 </div>
 <div style="width:800px; height:320px; float:left;">
  <b>Seho Lee</b>
- 
+<br>
 Assistant Professor
- 
+<br>
 seholee@jbnu.ac.kr
 </div>
 
