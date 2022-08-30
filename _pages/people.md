@@ -12,8 +12,19 @@ and superpixel segmentation.
 ## Research Interns
 
 <b>Hanna Lee</b>
+
 Undergraduate in Dept. Information and Engineering, Jeonbuk National University University, Korea 
+
 <b>Research Area</b>: TBD
+
 <b>Junwon Song</b>
 
+Undergraduate in Dept. Information and Engineering, Jeonbuk National University University, Korea 
+
+<b>Research Area</b>: TBD
+
 <b>Jihwan Kwon</b>
+
+Undergraduate in Dept. Information and Engineering, Jeonbuk National University University, Korea 
+
+<b>Research Area</b>: TBD
