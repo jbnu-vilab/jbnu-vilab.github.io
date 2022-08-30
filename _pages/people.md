@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 ## Professor
-<div style="width:160px; height:320px; float:left;">
+<div style="width:180px; height:320px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/seholee.png" width="160" >
 </div>
 <div style="width:600px; height:320px; float:left;">
