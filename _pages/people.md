@@ -3,5 +3,5 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
-
-asd
+**Professor
+**Seho Lee
