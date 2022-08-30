@@ -22,11 +22,11 @@ author_profile: true
 ### Conference Papers
 
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i>in Proc. <span style="color:red">ICCV</span></i>, Venice, Italy, Oct. 2017. </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i><b>in Proc. ICCV</b></i>, Venice, Italy, Oct. 2017. </font>
 
 1. <font size="3em" color="black"> Chang-Su Kim, Whan Choi, and <b>Se-Ho Lee</b>, "Video codec classification for video bitstreams," <i>in Proc. ITC-CSCC</i>, Busan, Korea, Jul. 2017. </font>
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Contour-constrained superpixels for image and video processing," <i>in Proc. CVPR</i>, Honolulu, Hawaii, Jul. 2017. </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Contour-constrained superpixels for image and video processing," <i><b>in Proc. CVPR</b></i>, Honolulu, Hawaii, Jul. 2017. </font>
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, Byung Kwan Park, and Chang-Su Kim, "RGB-D image segmentation based on multiple random walkers," <i>in Proc. ICIP</i>, Phoenix, Arizona, Sep. 2016. </font>
 
