@@ -11,10 +11,15 @@ redirect_from:
 전북대학교 IT지능정보공학과 시각지능연구실에서는 영상처리 및 컴퓨터비전 분야의 다양한 주제로 연구를 수행하고 있습니다. 관심있는 분들은 이세호 교수(seholee@jbnu.ac.kr)에게 연락하기 바랍니다.
 
 
-
 Research Interests
 ======
-/item a
+* Image Enhancement
+* Image Quality Assessment
+* Image Segmentation
+* Superpixel Segmentation
+* Super-Resolution
+* Transformers
+* Convolutional neural network
 
 Getting started
 ======
