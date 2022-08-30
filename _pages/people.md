@@ -17,20 +17,29 @@ author_profile: false
 
 ## Research Interns
 
-<b>Hanna Lee</b>
+<div style="width:180px; height:320px; float:left;">
+<img src="" width="160" height=224 >
+</div>
+<div style="width:580px; height:320px; float:left;">
+ <p style="line-height: 1.5;"><b>Hanna Lee (이한나)</b></p>
+<p style="line-height: 1.5;">0104ihn@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+</div>
 
-Undergraduate in Dept. Information and Engineering, Jeonbuk National University University, Korea 
+<div style="width:180px; height:320px; float:left;">
+<img src="" width="160" height=224 >
+</div>
+<div style="width:580px; height:320px; float:left;">
+ <p style="line-height: 1.5;"><b>Junwon Song (송준원)</b></p>
+<p style="line-height: 1.5;">wnsdnjs2959@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+</div>
 
-<b>Research Area</b>: TBD
-
-<b>Junwon Song</b>
-
-Undergraduate in Dept. Information and Engineering, Jeonbuk National University University, Korea 
-
-<b>Research Area</b>: TBD
-
-<b>Jihwan Kwon</b>
-
-Undergraduate in Dept. Information and Engineering, Jeonbuk National University University, Korea 
-
-<b>Research Area</b>: TBD
+<div style="width:180px; height:320px; float:left;">
+<img src="" width="160" height=224 >
+</div>
+<div style="width:580px; height:320px; float:left;">
+ <p style="line-height: 1.5;"><b>Jihwan Kwon (권지환)</b></p>
+<p style="line-height: 1.5;">zeno1030@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+</div>
