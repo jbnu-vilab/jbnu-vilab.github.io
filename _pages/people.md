@@ -15,10 +15,6 @@ author_profile: false
 </div>
 
 
-
-
-
-
 ## Research Interns
 
 <b>Hanna Lee</b>
