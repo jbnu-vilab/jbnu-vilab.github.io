@@ -9,10 +9,10 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/seholee.png" width="160" >
 </div>
 <div style="width:600px; height:320px; float:left;">
- <b>Seho Lee</b>
-<br>
+ <b>Seho Lee (이세호)</b>
+<br><br>
 Assistant Professor
-<br>
+<br><br>
 seholee@jbnu.ac.kr
 </div>
 
