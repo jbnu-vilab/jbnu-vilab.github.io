@@ -12,11 +12,9 @@ redirect_from:
 
 Contact Information
 =====
-E-mail: seholee@jbnu.ac.kr
-
-Phone: 063-270-2417
-
-사무실: 전북대학교 공과대학 7호관 425호
+* E-mail: seholee@jbnu.ac.kr
+* Phone: 063-270-2417
+* 사무실: 전북대학교 공과대학 7호관 425호
 
 Research Interests
 ======
