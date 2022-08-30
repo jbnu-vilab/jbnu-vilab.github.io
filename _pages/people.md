@@ -8,7 +8,7 @@ author_profile: false
 <div style="width:160px; height:320px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/seholee.png" width="160" >
 </div>
-<div style="width:500px; height:320px; float:left;">
+<div style="width:800px; height:320px; float:left;">
  <b>Seho Lee</b>
  
 Assistant Professor
