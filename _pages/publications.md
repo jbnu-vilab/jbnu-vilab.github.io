@@ -4,9 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!--
+
 ### Submitted/In preparation
--->
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "Image enhancement transformer based on control point adjustment," <i>IEEE Trans. Image Process.</i>, 2022. (In preparation) </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "Dual-branch vision transformer for blind image quality assessment," <i>IEEE Trans. Neural Netw. Learn. Syst.</i>, 2022. (Submitted) </font>
+
 
 ### Journal Articles
 
