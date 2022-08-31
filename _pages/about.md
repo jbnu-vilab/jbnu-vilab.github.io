@@ -28,3 +28,8 @@ Contact Us
 * \[Tel\]: +82-63-270-2417
 * Professor office: # 425, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
 * Visual Intelligence Lab: # 436, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
+
+Latest News
+=====
+
+"번호판 및 얼굴 인식을 위한 다중 시점 영상 초해상도 인공신경망 개발," 한국연구재단, 09/2022-02/2025
