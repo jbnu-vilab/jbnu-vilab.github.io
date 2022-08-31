@@ -16,9 +16,7 @@ author_profile: false
 
 &nbsp;
 
-&nbsp;
 
-&nbsp;
 
 ## Research Interns
 
@@ -34,9 +32,7 @@ author_profile: false
 
 &nbsp;
 
-&nbsp;
 
-&nbsp;
 
 <div style="width:180px; height:320px; float:left;">
 <img src="" width="160" height=224 >
@@ -50,9 +46,6 @@ author_profile: false
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
 
 <div style="width:180px; height:320px; float:left;">
 <img src="" width="160" height=224 >
@@ -66,6 +59,3 @@ author_profile: false
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
