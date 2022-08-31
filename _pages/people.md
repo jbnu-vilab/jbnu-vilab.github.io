@@ -12,11 +12,13 @@ author_profile: false
 <p style="line-height: 1.5;">Assistant Professor</p>
 <p style="line-height: 1.5;">seholee@jbnu.ac.kr</p>
 
-  
-    
-      
-        
-        
+asd
+
+asd
+
+asd
+
+asd
 
 ## Research Interns
 
