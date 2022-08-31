@@ -12,13 +12,13 @@ author_profile: false
 <p style="line-height: 1.5;">Assistant Professor</p>
 <p style="line-height: 1.5;">seholee@jbnu.ac.kr</p>
 
-asd
+&nbsp;
 
-asd
+&nbsp;
 
-asd
+&nbsp;
 
-asd
+&nbsp;
 
 ## Research Interns
 
@@ -31,8 +31,11 @@ asd
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 
 <div style="width:180px; height:320px; float:left;">
@@ -44,8 +47,11 @@ asd
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 
 <div style="width:180px; height:320px; float:left;">
@@ -56,8 +62,10 @@ asd
 <p style="line-height: 1.5;">zeno1030@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
+&nbsp;
 
 &nbsp;
+
 &nbsp;
-&nbsp;
+
 &nbsp;
