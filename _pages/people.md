@@ -14,6 +14,7 @@ author_profile: false
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 ## Research Interns
 
@@ -27,6 +28,7 @@ author_profile: false
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 <div style="width:180px; height:320px; float:left;">
 <img src="" width="160" height=224 >
@@ -36,6 +38,7 @@ author_profile: false
 <p style="line-height: 1.5;">wnsdnjs2959@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -48,5 +51,6 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 
+&nbsp;
 &nbsp;
 &nbsp;
