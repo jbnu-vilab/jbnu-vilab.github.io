@@ -16,7 +16,7 @@ author_profile: false
 
 &nbsp;
 
-
+&nbsp;
 
 ## Research Interns
 
@@ -27,6 +27,8 @@ author_profile: false
  <p style="line-height: 1.5;"><b>Hanna Lee (이한나)</b></p>
 <p style="line-height: 1.5;">0104ihn@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
 
 &nbsp;
 
@@ -46,6 +48,8 @@ author_profile: false
 
 &nbsp;
 
+&nbsp;
+
 
 <div style="width:180px; height:320px; float:left;">
 <img src="" width="160" height=224 >
@@ -54,6 +58,8 @@ author_profile: false
  <p style="line-height: 1.5;"><b>Jihwan Kwon (권지환)</b></p>
 <p style="line-height: 1.5;">zeno1030@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
 
 &nbsp;
 
