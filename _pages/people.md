@@ -50,7 +50,7 @@ author_profile: false
 
 
 <div style="width:180px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Kwon.jpg" width="160" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Kwon2.jpg" width="160" >
 </div>
 <p style="line-height: 1.5;"><b>Jihwan Kwon (권지환)</b></p>
 <p style="line-height: 1.5;">zeno1030@naver.com</p>
