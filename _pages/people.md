@@ -62,3 +62,42 @@ author_profile: false
 
 &nbsp;
 
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Jung.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Hyelyn Jeong (정혜린)</b></p>
+<p style="line-height: 1.5;">lucy6201@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Ok.jpeg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Seunghun Ok (옥승헌)</b></p>
+<p style="line-height: 1.5;">cornking123@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+<div style="width:150px; height:224px; float:left;">
+<img src="" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Seungchan Lee (이승찬)</b></p>
+<p style="line-height: 1.5;">sclee0724@gmail.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
