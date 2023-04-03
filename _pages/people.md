@@ -63,7 +63,7 @@ author_profile: false
 
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpe" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/park.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Jaemin Park (박재민)</b></p>
 <p style="line-height: 1.5;">jaemin9505@naver.com</p>
