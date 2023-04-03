@@ -69,6 +69,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Hanna Lee (이한나)</b></p>
 <p style="line-height: 1.5;">04.2023 - 12.2023</p>
+<p style="line-height: 1.5;">Current Position: DEVSISTERS</p>
 
 &nbsp;
 
