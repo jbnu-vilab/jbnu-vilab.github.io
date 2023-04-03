@@ -62,12 +62,13 @@ author_profile: false
 &nbsp;
 
 
+## Alumni
+
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Hanna Lee (이한나)</b></p>
-<p style="line-height: 1.5;">0104ihn@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;">04.2023 - 12.2023/p>
 
 &nbsp;
 
@@ -80,8 +81,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Song.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Junwon Song (송준원)</b></p>
-<p style="line-height: 1.5;">wnsdnjs2959@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;">04.2023 - 12.2023/p>
 
 &nbsp;
 
@@ -95,8 +95,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Kwon2.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Jihwan Kwon (권지환)</b></p>
-<p style="line-height: 1.5;">zeno1030@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;">04.2023 - 12.2023/p>
 
 &nbsp;
 
