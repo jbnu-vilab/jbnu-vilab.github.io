@@ -32,4 +32,4 @@ Contact Us
 Latest News
 =====
 1. May. 2023 - <b>Accepted</b>. "Dual-branch vision transformer for blind image quality assessment," Journal of Visual Communication and Image Representation.
-2. Aug. 2022 - <b>한국연구재단 생애첫연구 과제 선정</b>. "번호판 및 얼굴 인식을 위한 다중 시점 영상 초해상도 인공신경망 개발," 한국연구재단, 09/2022-02/2025.
+2. Aug. 2022 - A new grant awarded from National Research Foundation (NRF) of Korea.
