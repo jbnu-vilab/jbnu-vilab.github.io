@@ -19,7 +19,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Tracking-by-segmentation using superpixel-wise neural network," <i>IEEE Access</i>, vol. 6, pp. 54982-54993, Sep. 2018. </font>
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>J. Vis. Commun. Image. Represent.</i>, 2022. vol. 35, pp. 169-183, Feb. 2016. </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>J. Vis. Commun. Image. Represent.</i>, vol. 35, pp. 169-183, Feb. 2016. </font>
 
 ### Conference Papers
 
