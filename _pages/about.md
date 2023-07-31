@@ -31,5 +31,6 @@ Contact Us
 
 Latest News
 =====
-1. May. 2023 - <b>Accepted</b>. "Dual-branch vision transformer for blind image quality assessment," Journal of Visual Communication and Image Representation.
-2. Aug. 2022 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from National Research Foundation (NRF) of Korea.
+1. Jul. 2023 - <b>Accepted</b>. "Multiscale Coarse-to-Fine Guided Screenshot Demoiréing," IEEE Signal Processing Letters.
+2. May. 2023 - <b>Accepted</b>. "Dual-branch vision transformer for blind image quality assessment," Journal of Visual Communication and Image Representation.
+3. Aug. 2022 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from National Research Foundation (NRF) of Korea.
