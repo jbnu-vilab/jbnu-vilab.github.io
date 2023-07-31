@@ -12,7 +12,7 @@ author_profile: false
 
 ### Journal Articles
 
-1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Multiscale Coarse-to-Fine Guided Screenshot Demoiréing," <i>IEEE Signal Processing Letters</i>, May 2023. </font>
+1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Multiscale Coarse-to-Fine Guided Screenshot Demoiréing," <i>IEEE Signal Processing Letters</i>, Jul. 2023. </font>
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "Dual-branch vision transformer for blind image quality assessment," <i>Journal of Visual Communication and Image Representation</i>, May 2023. </font>
 
