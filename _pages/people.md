@@ -96,6 +96,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Junwon Song (송준원)</b></p>
 <p style="line-height: 1.5;">04.2023 - 12.2023</p>
+<p style="line-height: 1.5;">Current Position: KT</p>
 
 &nbsp;
 
