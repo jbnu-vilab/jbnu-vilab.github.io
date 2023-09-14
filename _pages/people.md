@@ -26,7 +26,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Hyelyn Jeong (정혜린)</b></p>
 <p style="line-height: 1.5;">lucy6201@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement, Vision Transformer</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement and Vision Transformer</p>
 
 &nbsp;
 
@@ -39,7 +39,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Seunghun Ok (옥승헌)</b></p>
 <p style="line-height: 1.5;">cornking123@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement and Demoiré</p>
 
 &nbsp;
 
@@ -53,7 +53,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>SeungChan Lee (이승찬)</b></p>
 <p style="line-height: 1.5;">sclee0724@gmail.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement and Demoiré</p>
 
 &nbsp;
 
