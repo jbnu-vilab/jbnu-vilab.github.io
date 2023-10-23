@@ -43,38 +43,38 @@ author_profile: false
 
 ### Domestic Papers
 
-1. <font size="3em" color="black"> 옥승헌, 이승찬, 박재민, 이세호, "특징 변환 기반의 전역 영상 화질 개선 기법," 대한전자공학회 2023년도 하계종합학술대회, 2023, 6월. </font>
+1. <font size="3em" color="black"> 옥승헌, 이승찬, 박재민, <b>이세호</b>, "특징 변환 기반의 전역 영상 화질 개선 기법," 대한전자공학회 2023년도 하계종합학술대회, 2023, 6월. </font>
 
-1. <font size="3em" color="black"> 정혜린, 이세호, "비전 트랜스포머 기반의 영상 화질 개선 방법," 대한전자공학회 2023년도 하계종합학술대회, 2023, 6월. </font>
+1. <font size="3em" color="black"> 정혜린, <b>이세호</b>, "비전 트랜스포머 기반의 영상 화질 개선 방법," 대한전자공학회 2023년도 하계종합학술대회, 2023, 6월. </font>
 
-1. <font size="3em" color="black"> 이선호, 김지수, 이세호, 김창수, "그래프 간 정합을 이용한 포인트 클라우드 시퀀스 압축," 2018 한국방송미디어공학회 하계학술대회, 2018, 6월. </font>
+1. <font size="3em" color="black"> 이선호, 김지수, <b>이세호</b>, 김창수, "그래프 간 정합을 이용한 포인트 클라우드 시퀀스 압축," 2018 한국방송미디어공학회 하계학술대회, 2018, 6월. </font>
 
-1. <font size="3em" color="black"> 박준흠, 허육, 이세호, 김창수, "JPEG 양자화 테이블 복원 기법," 2018 한국군사기술학회 종합학술대회, 2018, 6월. </font>
+1. <font size="3em" color="black"> 박준흠, 허육, <b>이세호</b>, 김창수, "JPEG 양자화 테이블 복원 기법," 2018 한국군사기술학회 종합학술대회, 2018, 6월. </font>
 
-1. <font size="3em" color="black"> 김지수, 이선호, 이세호, 김창수, "공간적 분포 정보를 이용한 3D 포인트 클라우드 압축," 2018 한국방송미디어공학회 하계학술대회, 2018, 6월. </font>
+1. <font size="3em" color="black"> 김지수, 이선호, <b>이세호</b>, 김창수, "공간적 분포 정보를 이용한 3D 포인트 클라우드 압축," 2018 한국방송미디어공학회 하계학술대회, 2018, 6월. </font>
 
-1. <font size="3em" color="black"> 이선호, 진동권, 이세호, 김창수, "적응적 팔진 트리 기반 3D 포인트 클라우드 압축," 제 30회 영상처리 및 이해에 관한 워크샵, 2018, 2월. </font>
+1. <font size="3em" color="black"> 이선호, 진동권, <b>이세호</b>, 김창수, "적응적 팔진 트리 기반 3D 포인트 클라우드 압축," 제 30회 영상처리 및 이해에 관한 워크샵, 2018, 2월. </font>
 
-1. <font size="3em" color="black"> 문주혁, 최환, 이세호, 장원동, 김창수, "3D CNN 기반 전립선 MRI 영상 분할 기술," 2017 한국방송미디어공학회 하계학술대회, 2017, 6월. </font>
+1. <font size="3em" color="black"> 문주혁, 최환, <b>이세호</b>, 장원동, 김창수, "3D CNN 기반 전립선 MRI 영상 분할 기술," 2017 한국방송미디어공학회 하계학술대회, 2017, 6월. </font>
 
-1. <font size="3em" color="black"> 이세호, 김세훈, 김창수, "대조비 기반의 중요도 검출 기법," 제 27회 영상처리 및 이해에 관한 워크샵, 2015, 2월. </font>
+1. <font size="3em" color="black"> <b>이세호</b>, 김세훈, 김창수, "대조비 기반의 중요도 검출 기법," 제 27회 영상처리 및 이해에 관한 워크샵, 2015, 2월. </font>
 
-1. <font size="3em" color="black"> 이세호, 김진환, 김창수, "희귀도 기반의 중요도 검출 기법," 한국방송공학회 추계학술대회, 2013, 11월. </font>
+1. <font size="3em" color="black"> <b>이세호</b>, 김진환, 김창수, "희귀도 기반의 중요도 검출 기법," 한국방송공학회 추계학술대회, 2013, 11월. </font>
 
-1. <font size="3em" color="black"> 이세호, 정성균, 정태영, 김창수, "3차원 데이터를 이용한 실내 공간 표현 기법," 한국방송공학회 하계학술대회, 2012, 7월. </font>
+1. <font size="3em" color="black"> <b>이세호</b>, 정성균, 정태영, 김창수, "3차원 데이터를 이용한 실내 공간 표현 기법," 한국방송공학회 하계학술대회, 2012, 7월. </font>
 
-1. <font size="3em" color="black"> 이세호, 정태영, 김창수, "입체감을 보존하는 스테레오 영상의 크기 조정 기법," 한국방송공학회 추계학술대회, 2011, 11월. </font>
+1. <font size="3em" color="black"> <b>이세호</b>, 정태영, 김창수, "입체감을 보존하는 스테레오 영상의 크기 조정 기법," 한국방송공학회 추계학술대회, 2011, 11월. </font>
 
 
 ### International Granted Patents
 
-1. <font size="3em" color="black"> Seho Lee, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug. 2023. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug. 2023. </font>
 
-1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May. 2023. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May. 2023. </font>
 
-1. <font size="3em" color="black"> Seho Lee, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 11651475 B2, May 2023. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 11651475 B2, May 2023. </font>
 
-1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. EP 3816929 B1, Nov. 2022. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. EP 3816929 B1, Nov. 2022. </font>
 
 
 
