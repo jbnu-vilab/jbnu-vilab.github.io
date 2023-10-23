@@ -68,7 +68,7 @@ author_profile: false
 
 ### International Granted Patents
 
-1. <font size="3em" color="black"> Seho Lee, Seok Lee, and Deokyoung Kange, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug. 2023. </font>
+1. <font size="3em" color="black"> Seho Lee, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug. 2023. </font>
 
 1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May. 2023. </font>
 
