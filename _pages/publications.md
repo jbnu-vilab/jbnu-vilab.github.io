@@ -64,3 +64,27 @@ author_profile: false
 1. <font size="3em" color="black"> 이세호, 정성균, 정태영, 김창수, "3차원 데이터를 이용한 실내 공간 표현 기법," 한국방송공학회 하계학술대회, 2012, 7월. </font>
 
 1. <font size="3em" color="black"> 이세호, 정태영, 김창수, "입체감을 보존하는 스테레오 영상의 크기 조정 기법," 한국방송공학회 추계학술대회, 2011, 11월. </font>
+
+
+### International Granted Patents
+
+1. <font size="3em" color="black"> Seho Lee, Seok Lee, and Deokyoung Kange, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug. 2023. </font>
+
+1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May. 2023. </font>
+
+1. <font size="3em" color="black"> Seho Lee, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 11651475 B2, May 2023. </font>
+
+1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. EP 3816929 B1, Nov. 2022. </font>
+
+
+
+### Korean Granted Patents
+
+
+1. <font size="3em" color="black"> 김세훈, 최원희, 김창수, <b>이세호</b>, 고영준, 김영배, "영상 개선 장치 및 영상 개선 방법," Patent No. 10-2055253, Dec. 2019. </font>
+
+1. <font size="3em" color="black"> 박병관, 김창수, 장원동, <b>이세호</b>, 김영배, "다중 랜덤 워크 기반의 영상 분할 방법 및 장치," Patent No. 10-1934358, Dec. 2018. </font>
+
+1. <font size="3em" color="black"> 곽영진, 김창수, <b>이세호</b>, 김대희, 김진환, 최광표, 고영준, 이철우, "영상 데이터 처리 방법 및 디바이스, " Patent No. 10-1585059, Jan. 2016. </font>
+
+
