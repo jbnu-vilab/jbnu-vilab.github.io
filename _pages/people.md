@@ -55,7 +55,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Jaemin Park (박재민)</b></p>
 <p style="line-height: 1.5;">jaemin9505@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction and Image Enhancement</p>
 
 &nbsp;
 
