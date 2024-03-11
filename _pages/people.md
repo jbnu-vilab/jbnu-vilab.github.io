@@ -69,7 +69,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Jung.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Hyelyn Jeong (정혜린)</b></p>
-<p style="line-height: 1.5;">lucy6201@naver.com</p>
+<p style="line-height: 1.5;">Research Intern: 09.2022 - 12.2023 </p>
 <p style="line-height: 1.5;">Current Position: Master’s course at Sungkyunkwan University</p>
 
 &nbsp;
@@ -82,7 +82,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Hanna Lee (이한나)</b></p>
-<p style="line-height: 1.5;">Research Intern: 04.2023 - 12.2023  </p>
+<p style="line-height: 1.5;">Research Intern: 04.2022 - 12.2023  </p>
 <p style="line-height: 1.5;">Current Position: DEVSISTERS</p>
 
 &nbsp;
@@ -96,7 +96,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Song.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Junwon Song (송준원)</b></p>
-<p style="line-height: 1.5;">Research Intern: 04.2023 - 12.2023 </p>
+<p style="line-height: 1.5;">Research Intern: 04.2022 - 12.2023 </p>
 <p style="line-height: 1.5;">Current Position: KT</p>
 
 &nbsp;
@@ -111,7 +111,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Kwon2.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Jihwan Kwon (권지환)</b></p>
-<p style="line-height: 1.5;">Research Intern: 04.2023 - 12.2023 </p>
+<p style="line-height: 1.5;">Research Intern: 04.2022 - 12.2023 </p>
 
 &nbsp;
 
