@@ -20,7 +20,7 @@ Research Interests
 * Superpixel Segmentation
 * Super-Resolution
 * Transformers
-* Convolutional neural network
+* Convolutional Neural Networks
 
 Contact Us
 =====
