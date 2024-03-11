@@ -6,7 +6,7 @@ author_profile: false
 
 ## Professor
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/seholee.png" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Seho_Lee.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seho Lee (이세호)</b></p>
 <p style="line-height: 1.5;">Assistant Professor</p>
