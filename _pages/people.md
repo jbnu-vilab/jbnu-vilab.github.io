@@ -21,18 +21,6 @@ author_profile: false
 ## Research Interns
 
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Jung.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Hyelyn Jeong (정혜린)</b></p>
-<p style="line-height: 1.5;">lucy6201@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement and Vision Transformer</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Ok.jpeg" width="130" >
@@ -76,6 +64,19 @@ author_profile: false
 &nbsp;
 
 ## Alumni
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Jung.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Hyelyn Jeong (정혜린)</b></p>
+<p style="line-height: 1.5;">lucy6201@naver.com</p>
+<p style="line-height: 1.5;">Current Position: Master’s course at Sungkyunkwan University</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpg" width="130" >
