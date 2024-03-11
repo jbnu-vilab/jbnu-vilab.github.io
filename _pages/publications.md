@@ -6,7 +6,9 @@ author_profile: false
 
 
 ### Submitted/In preparation
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable Control Point Network for Image Enhancement," <i>Journal of Visual Communication and Image Representation</i>, 2023. (Submitted) </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "DCPNet: Deformable Control Point Network for Image Enhancement," <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2024. (Submitted) </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable Control Point Network for Image Enhancement," <i>Journal of Visual Communication and Image Representation</i>, 2023. (In revision) </font>
 
 
 
