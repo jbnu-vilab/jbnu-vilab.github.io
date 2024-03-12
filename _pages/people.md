@@ -64,6 +64,19 @@ author_profile: false
 &nbsp;
 
 <div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Jiyoun Kim (김지연)</b></p>
+<p style="line-height: 1.5;">wldus1473@jbnu.ac.kr</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hyunakim.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Hyuna Kim (김현아)</b></p>
