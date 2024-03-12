@@ -20,7 +20,7 @@ author_profile: false
 &nbsp;
 
 
-## Ph.D. students
+## Ph.D. Students
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/gwanghyung.png" width="130" >
