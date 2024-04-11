@@ -37,7 +37,7 @@ author_profile: false
 ## Master Students
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/euijae.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/euiae.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>EuiJae Lee (이의재)</b></p>
 <p style="line-height: 1.5;">euijaebilly@jbnu.ac.kr</p>
