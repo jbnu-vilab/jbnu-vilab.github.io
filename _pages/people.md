@@ -119,6 +119,18 @@ author_profile: false
 
 &nbsp;
 
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jeon.jpeg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Sungwoo Jeon (전성우)</b></p>
+<p style="line-height: 1.5;">muusp123@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 ## Alumni
 
 <div style="width:150px; height:224px; float:left;">
