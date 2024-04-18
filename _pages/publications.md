@@ -6,6 +6,8 @@ author_profile: false
 
 
 ### Submitted/In preparation
+1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Self-Negative Contrastive Learning for High-Resolution Moiré Decomposition," <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2024. (In preparation) </font>
+
 1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee</b>, and Seung-Wook Kim, "Enhanced blur-robust monocular depth estimation via self-supervised learning," <i>Electronic Letters</i>, 2024. (Submitted) </font>
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2024. (Submitted) </font>
