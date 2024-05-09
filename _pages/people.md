@@ -41,6 +41,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/euiae.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>EuiJae Lee (이의재)</b></p>
+<p style="line-height: 1.5;">03.2024~Present</p>
 <p style="line-height: 1.5;">euijaebilly@jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Deblurring</p>
 
@@ -57,6 +58,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Ok.jpeg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seunghun Ok (옥승헌)</b></p>
+<p style="line-height: 1.5;">09.2022~Present</p>
 <p style="line-height: 1.5;">cornking123@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Demoiréing</p>
 
@@ -71,6 +73,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpe" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>SeungChan Lee (이승찬)</b></p>
+<p style="line-height: 1.5;">09.2022~Present</p>
 <p style="line-height: 1.5;">sclee0724@gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement</p>
 
@@ -85,6 +88,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/park.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Jaemin Park (박재민)</b></p>
+<p style="line-height: 1.5;">03.2023~Present</p>
 <p style="line-height: 1.5;">jaemin9505@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction and Image Enhancement</p>
 
@@ -98,6 +102,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jiyoun.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Jiyoun Kim (김지연)</b></p>
+<p style="line-height: 1.5;">03.2024~Present</p>
 <p style="line-height: 1.5;">wldus1473@jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
@@ -111,6 +116,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hyunakim.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Hyuna Kim (김현아)</b></p>
+<p style="line-height: 1.5;">03.2024~Present</p>
 <p style="line-height: 1.5;">chris2cloe@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
@@ -124,6 +130,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jeon.jpeg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Sungwoo Jeon (전성우)</b></p>
+<p style="line-height: 1.5;">03.2024~Present</p>
 <p style="line-height: 1.5;">muusp123@naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
