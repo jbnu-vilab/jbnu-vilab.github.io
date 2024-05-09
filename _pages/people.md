@@ -25,7 +25,7 @@ author_profile: false
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/gwanghyung.png" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Gwanghyung Lee (이광형)</b></p>
-<p style="line-height: 1.5;">2024.03~</p>
+<p style="line-height: 1.5;">03.2024~Present</p>
 <p style="line-height: 1.5;">lightbro@keti.re.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
