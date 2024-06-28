@@ -50,6 +50,20 @@ author_profile: false
 &nbsp;
 
 &nbsp;
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/kim.png" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Minhye Kim (김민혜)</b></p>
+<p style="line-height: 1.5;">09.2024~Present</p>
+<p style="line-height: 1.5;">tdj06104@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 ## Research Interns
 
 
