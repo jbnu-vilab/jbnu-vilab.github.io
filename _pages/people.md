@@ -27,7 +27,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Gwanghyung Lee (이광형)</b></p>
 <p style="line-height: 1.5;">03.2024~Present</p>
 <p style="line-height: 1.5;">lightbro@keti.re.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Hyperspectral Imaging</p>
 
 &nbsp;
 
@@ -112,19 +112,7 @@ author_profile: false
 
 &nbsp;
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jiyoun.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Jiyoun Kim (김지연)</b></p>
-<p style="line-height: 1.5;">03.2024~Present</p>
-<p style="line-height: 1.5;">wldus1473@jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hyunakim.jpg" width="130" >
