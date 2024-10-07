@@ -12,7 +12,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," 2024. (Submitted) </font>
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," 2023. (In revision) </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," 2023. (Accepted) </font>
 
 
 
