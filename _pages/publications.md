@@ -20,7 +20,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Multiscale coarse-to-fine guided screenshot demoiréing," <i>IEEE Signal Processing Letters</i>, vol. 30, pp. 898-902, Jul. 2023, https://doi.org/10.1109/LSP.2023.3296039 </font>
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "Dual-branch vision transformer for blind image quality assessment," <i>Journal of Visual Communication and Image Representation</i>, vol. 94, pp. 103850, May 2023, https://doi.org/10.1016/j.jvcir.2023.103850 </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "Dual-branch vision transformer for blind image quality assessment," <i>Journal of Visual Communication and Image Representation</i>, vol. 94, pp. 103850, Jun. 2023, https://doi.org/10.1016/j.jvcir.2023.103850 </font>
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Superpixels for image and video processing based on proximity-weighted patch matching," <i>Multimedia Tools and Applications</i>, vol. 79, pp. 13811-13839, Feb. 2020, https://doi.org/10.1007/s11042-019-08438-8 </font>
 
