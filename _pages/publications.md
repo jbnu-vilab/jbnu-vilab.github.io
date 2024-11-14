@@ -7,7 +7,7 @@ author_profile: false
 
 
 ### Submitted/In preparation
-1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Effective federated learning with weight standardization," 2024. (In preparation) </font>
+%1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Effective federated learning with weight standardization," 2024. (In preparation) </font>
 
 1. <font size="3em" color="black"> Seunghun Ok and <b>Se-Ho Lee</b>, "AVD-Net: Adaptive video demoiréing network using spectral-spatial aware alignment," 2024. (In preparation) </font>
 
