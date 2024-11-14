@@ -31,6 +31,7 @@ Contact Us
 
 Latest News
 =====
+1. asd
 1. Oct. 2024 - <b>Accepted</b>. "DCPNet: Deformable Control Point Network for Image Enhancement," Journal of Visual Communication and Image Representation.
 2. Mar. 2024 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from Jeonbuk National University and Korea Food Research Institute.
 3. Jul. 2023 - <b>Accepted</b>. "Multiscale Coarse-to-Fine Guided Screenshot Demoiréing," IEEE Signal Processing Letters.
