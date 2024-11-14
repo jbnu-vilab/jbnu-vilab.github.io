@@ -31,9 +31,9 @@ Contact Us
 
 Latest News
 =====
-1. asd
-1. Oct. 2024 - <b>Accepted</b>. "DCPNet: Deformable Control Point Network for Image Enhancement," Journal of Visual Communication and Image Representation.
+1. Nov. 2024 - <b>Accepted</b>. "Enhanced blur-robust monocular depth estimation via self-supervised learning," Electronic Letters.
+1. Oct. 2024 - <b>Accepted</b>. "DCPNet: Deformable control point network for image enhancement," Journal of Visual Communication and Image Representation.
 2. Mar. 2024 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from Jeonbuk National University and Korea Food Research Institute.
-3. Jul. 2023 - <b>Accepted</b>. "Multiscale Coarse-to-Fine Guided Screenshot Demoiréing," IEEE Signal Processing Letters.
+3. Jul. 2023 - <b>Accepted</b>. "Multiscale coarse-to-fine guided screenshot demoiréing," IEEE Signal Processing Letters.
 4. May. 2023 - <b>Accepted</b>. "Dual-branch vision transformer for blind image quality assessment," Journal of Visual Communication and Image Representation.
 5. Aug. 2022 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from National Research Foundation (NRF) of Korea.
