@@ -15,12 +15,12 @@ author_profile: false
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," 2024. (Submitted) </font>
 
-1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee</b>, and Seung-Wook Kim, "Enhanced blur-robust monocular depth estimation via self-supervised learning," 2024. (Accepted) </font>
+1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee*</b>, and Seung-Wook Kim*, "Enhanced blur-robust monocular depth estimation via self-supervised learning," 2024. (Accepted) </font>
 
 
 
 ### Journal Articles
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," <i>J. Vis. Commun. Image. Represent.</i>, vol. 104, pp.104308, Oct., 2024, https://doi.org/10.1016/j.jvcir.2024.104308 </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," <i>Journal of Visual Communication and Image Representation</i>, vol. 104, pp.104308, Oct., 2024, https://doi.org/10.1016/j.jvcir.2024.104308 </font>
 
 1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Multiscale coarse-to-fine guided screenshot demoiréing," <i>IEEE Signal Processing Letters</i>, vol. 30, pp. 898-902, Jul. 2023, https://doi.org/10.1109/LSP.2023.3296039 </font>
 
@@ -30,7 +30,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Tracking-by-segmentation using superpixel-wise neural network," <i>IEEE Access</i>, vol. 6, pp. 54982-54993, Sep. 2018. </font>
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>J. Vis. Commun. Image. Represent.</i>, vol. 35, pp. 169-183, Feb. 2016. </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>Journal of Visual Communication and Image Representation</i>, vol. 35, pp. 169-183, Feb. 2016. </font>
 
 ### Conference Papers
 
