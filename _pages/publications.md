@@ -20,7 +20,7 @@ author_profile: false
 
 
 ### Journal Articles
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," <i>Journal of Visual Communication and Image Representation</i>, vol. 104, pp.104308, Oct., 2024, https://doi.org/10.1016/j.jvcir.2024.104308 </font>
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," <i>Journal of Visual Communication and Image Representation</i>, vol. 104, pp.104308, Oct., 2024,  <A href = "https://doi.org/10.1016/j.jvcir.2024.104308"> [글 내용](https://doi.org/10.1016/j.jvcir.2024.104308)</A>.</font>
 
 1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Multiscale coarse-to-fine guided screenshot demoiréing," <i>IEEE Signal Processing Letters</i>, vol. 30, pp. 898-902, Jul. 2023, https://doi.org/10.1109/LSP.2023.3296039 </font>
 
