@@ -20,7 +20,8 @@ author_profile: false
 
 
 ### Journal Articles
-1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee*</b>, and Seung-Wook Kim*, "Enhanced blur-robust monocular depth estimation via self-supervised learning," <i>Electronics Letters</i>, vol. 60, Nov., 2024 </font>
+1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee*</b>, and Seung-Wook Kim*, "Enhanced blur-robust monocular depth estimation via self-supervised learning," <i>Electronics Letters</i>, vol. 60, Nov., 2024, <A href = "https://doi.org/10.1049/ell2.70098"> https://doi.org/10.1049/ell2.70098</A>.</font>
+
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b> and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," <i>Journal of Visual Communication and Image Representation</i>, vol. 104, pp.104308, Oct., 2024,  <A href = "https://doi.org/10.1016/j.jvcir.2024.104308"> https://doi.org/10.1016/j.jvcir.2024.104308</A>.</font>
 
