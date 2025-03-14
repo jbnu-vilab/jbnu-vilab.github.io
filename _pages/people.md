@@ -64,16 +64,13 @@ author_profile: false
 &nbsp;
 
 &nbsp;
-## Research Interns
-
-
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Ok.jpeg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seunghun Ok (옥승헌)</b></p>
-<p style="line-height: 1.5;">09.2022~Present</p>
-<p style="line-height: 1.5;">cornking123@naver.com</p>
+<p style="line-height: 1.5;">03.2025~Present</p>
+<p style="line-height: 1.5;">cornking123@jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Demoiréing</p>
 
 &nbsp;
@@ -81,45 +78,28 @@ author_profile: false
 &nbsp;
 
 &nbsp;
-
-
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpe" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>SeungChan Lee (이승찬)</b></p>
-<p style="line-height: 1.5;">09.2022~Present</p>
-<p style="line-height: 1.5;">sclee0724@gmail.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
+## Research Interns
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/park.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/~.jpeg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Jaemin Park (박재민)</b></p>
-<p style="line-height: 1.5;">03.2023~Present</p>
-<p style="line-height: 1.5;">jaemin9505@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction and Image Enhancement</p>
+<p style="line-height: 1.5;"><b>Jiwon Park (박지원)</b></p>
+<p style="line-height: 1.5;">01.2025~Present</p>
+<p style="line-height: 1.5;">wldnjs4685@gmail.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Diffusion model</p>
 
 &nbsp;
 
 &nbsp;
 
 &nbsp;
-
-
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hyunakim.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/~.jpeg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Hyuna Kim (김현아)</b></p>
-<p style="line-height: 1.5;">03.2024~Present</p>
-<p style="line-height: 1.5;">chris2cloe@naver.com</p>
+<p style="line-height: 1.5;"><b>Kyongmoon Kim (김경문)</b></p>
+<p style="line-height: 1.5;">03.2025~Present</p>
+<p style="line-height: 1.5;">rlarudans134@jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 &nbsp;
@@ -127,6 +107,36 @@ author_profile: false
 &nbsp;
 
 &nbsp;
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jhkim.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Junhyung Kim (김준형)</b></p>
+<p style="line-height: 1.5;">01.2025~Present</p>
+<p style="line-height: 1.5;">kjh71568289@gmail.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/pyo.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Jiho Pyo (표지호)</b></p>
+<p style="line-height: 1.5;">03.2025~Present</p>
+<p style="line-height: 1.5;">jyjh0501@naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jeon.jpeg" width="130" >
@@ -156,6 +166,35 @@ author_profile: false
 
 &nbsp;
 ## Alumni
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpe" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>SeungChan Lee (이승찬)</b></p>
+<p style="line-height: 1.5;">Research Intern: 09.2022~02.2025</p>
+<p style="line-height: 1.5;">sclee0724@gmail.com</p>
+<p style="line-height: 1.5;"><b>Current Position</b>: Master’s course at Chung-Ang University</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/park.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Jaemin Park (박재민)</b></p>
+<p style="line-height: 1.5;">Research Intern: 03.2023~02.2025</p>
+<p style="line-height: 1.5;">jaemin9505@naver.com</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Jung.jpg" width="130" >
