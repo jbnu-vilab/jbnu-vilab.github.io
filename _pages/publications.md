@@ -7,13 +7,17 @@ author_profile: false
 
 
 ### Submitted/In preparation
-<!-- 1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Effective federated learning with weight standardization," 2024. (In preparation) </font> -->
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," 2025. (In revision) </font>
 
-1. <font size="3em" color="black"> Seunghun Ok and <b>Se-Ho Lee</b>, "AVD-Net: Adaptive video demoiréing network using spectral-spatial aware alignment," 2024. (In preparation) </font>
+1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," 2025. (Submitted) </font>
 
-1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Self-negative contrastive learning for high-resolution moiré decomposition," 2024. (In preparation) </font>
+1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Effective federated learning with weight standardization," 2025. (In preparation) </font>
 
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," 2024. (Submitted) </font>
+1. <font size="3em" color="black"> Seunghun Ok and <b>Se-Ho Lee</b>, "AVD-Net: Adaptive video demoiréing network using spectral-spatial aware alignment," 2025. (In preparation) </font>
+
+1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "Self-negative contrastive learning for high-resolution moiré decomposition," 2025. (In preparation) </font>
+
+
 
 
 
