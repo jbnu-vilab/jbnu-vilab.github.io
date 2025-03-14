@@ -66,7 +66,7 @@ author_profile: false
 &nbsp;
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Ok.jpeg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/ok2.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seunghun Ok (옥승헌)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
@@ -81,9 +81,9 @@ author_profile: false
 ## Research Interns
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/~.jpeg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jwpark.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Jiwon Park (박지원)</b></p>
+<p style="line-height: 1.5;"><b>Ji Won Park (박지원)</b></p>
 <p style="line-height: 1.5;">01.2025~Present</p>
 <p style="line-height: 1.5;">wldnjs4685@gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Diffusion Model</p>
@@ -95,9 +95,9 @@ author_profile: false
 &nbsp;
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/~.jpeg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/kmkim.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Kyongmoon Kim (김경문)</b></p>
+<p style="line-height: 1.5;"><b>Gyeong Moon Kim (김경문)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
 <p style="line-height: 1.5;">rlarudans134@jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
@@ -111,7 +111,7 @@ author_profile: false
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jhkim.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>Junhyung Kim (김준형)</b></p>
+<p style="line-height: 1.5;"><b>Jun Hyeong Kim (김준형)</b></p>
 <p style="line-height: 1.5;">01.2025~Present</p>
 <p style="line-height: 1.5;">kjh71568289@gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
