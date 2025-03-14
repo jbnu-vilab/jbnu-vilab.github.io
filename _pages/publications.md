@@ -11,6 +11,8 @@ author_profile: false
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," 2025 (Submitted), </font>
 
+1. <font size="3em" color="black"> Min-Yeong Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Reference-guided transformer for face super-resolution," 2025 (In preparation). </font>
+
 1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Effective federated learning with weight standardization," 2025 (In preparation). </font>
 
 1. <font size="3em" color="black"> Seunghun Ok, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "AVD-Net: Adaptive video demoiréing network using spectral-spatial aware alignment," 2025 (In preparation). </font>
