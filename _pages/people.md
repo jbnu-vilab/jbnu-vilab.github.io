@@ -43,7 +43,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>EuiJae Lee (이의재)</b></p>
 <p style="line-height: 1.5;">03.2024~Present</p>
 <p style="line-height: 1.5;">euijaebilly@jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Deblurring</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement</p>
 
 &nbsp;
 
@@ -57,7 +57,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Minhye Kim (김민혜)</b></p>
 <p style="line-height: 1.5;">09.2024~Present</p>
 <p style="line-height: 1.5;">tdj06104@naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Demoiréing</p>
 
 &nbsp;
 
@@ -86,7 +86,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Jiwon Park (박지원)</b></p>
 <p style="line-height: 1.5;">01.2025~Present</p>
 <p style="line-height: 1.5;">wldnjs4685@gmail.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Diffusion model</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Diffusion Model</p>
 
 &nbsp;
 
@@ -158,7 +158,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Heeyeon Kim (김희연)</b></p>
 <p style="line-height: 1.5;">09.2024~Present</p>
 <p style="line-height: 1.5;">heeyeon23@jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Depth Estimation </p>
 
 &nbsp;
 
