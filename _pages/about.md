@@ -28,7 +28,7 @@ Contact Us
 * E-mail: seholee@jbnu.ac.kr
 * \[Tel\]: +82-63-270-2417
 * Professor office: # 425, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
-* Visual Intelligence Lab: # 436, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
+* Visual Intelligence Lab: # 510, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
 
 Latest News
 =====
