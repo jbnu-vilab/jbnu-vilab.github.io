@@ -14,6 +14,7 @@ redirect_from:
 
 Research Interests
 ======
+* Diffusion Model
 * Image Enhancement
 * Image Quality Assessment
 * Image Segmentation
