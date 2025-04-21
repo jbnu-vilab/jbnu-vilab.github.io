@@ -13,7 +13,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," 2025 (Submitted). </font>
 
-1. <font size="3em" color="black"> Seunghun Ok, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "AVD-Net: Adaptive video demoiréing network using subtraction-guided alignment," 2025 (Submitted). </font>
+1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "AVD-Net: Adaptive video demoiréing network using subtraction-guided alignment," 2025 (Submitted). </font>
 
 1. <font size="3em" color="black"> Min-Yeong Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Reference-guided transformer for face super-resolution," 2025 (In preparation). </font>
 
