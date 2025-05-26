@@ -90,6 +90,8 @@ author_profile: false
 
 ### International Granted Patents
 
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. EP 3944182 B1, Feb. 2025. </font>
+
 1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 12073534 B2, Aug. 2024. </font>
 
 1. <font size="3em" color="black"> <b>Seho Lee</b>, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug. 2023. </font>
@@ -104,6 +106,7 @@ author_profile: false
 
 ### Korean Granted Patents
 
+1. <font size="3em" color="black"> <b>이세호</b>, 조양호, 강덕영, "멀티 렌즈 영상 복원 장치 및 방법," Patent No. 10-2680385, Jun. 2014. </font>
 
 1. <font size="3em" color="black"> 김세훈, 최원희, 김창수, <b>이세호</b>, 고영준, 김영배, "영상 개선 장치 및 영상 개선 방법," Patent No. 10-2055253, Dec. 2019. </font>
 
