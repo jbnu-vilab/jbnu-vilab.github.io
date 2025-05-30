@@ -14,14 +14,12 @@ redirect_from:
 
 Research Interests
 ======
+* 3D Gaussian Splatting
+* Image Relighting
+* Depth Estimation
 * Diffusion Model
 * Image Enhancement
 * Image Quality Assessment
-* Image Segmentation
-* Superpixel Segmentation
-* Super-Resolution
-* Transformers
-* Convolutional Neural Networks
 
 Contact Us
 =====
