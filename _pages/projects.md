@@ -4,13 +4,6 @@ permalink: /projects/
 author_profile: false
 ---
 
-### On-Going Projects
-
-1. <font size="3em" color="black"> "Latent Diffusion 기반 이미지 재조명 AI의 연구개발," 무버스--
-title: "Projects"
-permalink: /projects/
-author_profile: false
----
 
 ### On-Going Projects
 
