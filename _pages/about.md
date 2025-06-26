@@ -15,7 +15,6 @@ redirect_from:
 Research Interests
 ======
 * 3D Gaussian Splatting
-* Image Relighting
 * Depth Estimation
 * Diffusion Model
 * Image Enhancement
@@ -30,6 +29,7 @@ Contact Us
 
 Latest News
 =====
+1. Jun. 2025 - <b>Accepted</b>. "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>ICCV</b></i>.
 1. Nov. 2024 - <b>Accepted</b>. "Enhanced blur-robust monocular depth estimation via self-supervised learning," Electronic Letters.
 1. Oct. 2024 - <b>Accepted</b>. "DCPNet: Deformable control point network for image enhancement," Journal of Visual Communication and Image Representation.
 2. Mar. 2024 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from Jeonbuk National University and Korea Food Research Institute.
