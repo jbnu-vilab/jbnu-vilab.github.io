@@ -60,6 +60,8 @@ author_profile: false
 
 ### Domestic Papers
 
+1. <font size="3em" color="black"> <b>이세호</b>, "적응적 필터링을 통한 모아레 제거 방법, " 한국통신학회 논문지, 2025, 6월. </font>
+
 1. <font size="3em" color="black"> 옥승헌, 이승찬, 박재민, <b>이세호</b>, "특징 변환 기반의 전역 영상 화질 개선 기법," 대한전자공학회 2023년도 하계종합학술대회, 2023, 6월. </font>
 
 1. <font size="3em" color="black"> 정혜린, <b>이세호</b>, "비전 트랜스포머 기반의 영상 화질 개선 방법," 대한전자공학회 2023년도 하계종합학술대회, 2023, 6월. </font>
