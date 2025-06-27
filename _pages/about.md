@@ -30,6 +30,7 @@ Contact Us
 
 Latest News
 =====
+1. Jun. 2025 - <b>Accepted</b>. "Adaptive video demoiréing network with subtraction-guided alignment," <i><b>IEEE Signal Processing Letters</b></i>. This marks our lab’s first student-led publication. We are pleased to share two consecutive days of good news.
 1. Jun. 2025 - <b>Accepted</b>. "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>ICCV</b></i>. This is our lab's first top-tier conference paper at JBNU.
 1. Nov. 2024 - <b>Accepted</b>. "Enhanced blur-robust monocular depth estimation via self-supervised learning," Electronic Letters.
 1. Oct. 2024 - <b>Accepted</b>. "DCPNet: Deformable control point network for image enhancement," Journal of Visual Communication and Image Representation.
