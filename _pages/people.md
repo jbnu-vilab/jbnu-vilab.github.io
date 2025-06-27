@@ -11,7 +11,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Seho Lee (이세호)</b></p>
 <p style="line-height: 1.5;">Assistant Professor</p>
-<p style="line-height: 1.5;">seholee@jbnu.ac.kr</p>
+<p style="line-height: 1.5;">seholee [at] jbnu.ac.kr</p>
 
 &nbsp;
 
@@ -26,7 +26,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Gwanghyung Lee (이광형)</b></p>
 <p style="line-height: 1.5;">03.2024~Present</p>
-<p style="line-height: 1.5;">lightbro@keti.re.kr</p>
+<p style="line-height: 1.5;">lightbro [at] keti.re.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Hyperspectral Imaging</p>
 
 &nbsp;
@@ -42,7 +42,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>EuiJae Lee (이의재)</b></p>
 <p style="line-height: 1.5;">03.2024~Present</p>
-<p style="line-height: 1.5;">euijaebilly@jbnu.ac.kr</p>
+<p style="line-height: 1.5;">euijaebilly [at] jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement</p>
 
 &nbsp;
@@ -56,7 +56,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Minhye Kim (김민혜)</b></p>
 <p style="line-height: 1.5;">09.2024~Present</p>
-<p style="line-height: 1.5;">tdj06104@naver.com</p>
+<p style="line-height: 1.5;">tdj06104 [at] naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Demoiréing</p>
 
 &nbsp;
@@ -70,7 +70,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Seunghun Ok (옥승헌)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
-<p style="line-height: 1.5;">cornking123@jbnu.ac.kr</p>
+<p style="line-height: 1.5;">cornking123 [at] jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Demoiréing</p>
 
 &nbsp;
@@ -85,7 +85,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Ji Won Park (박지원)</b></p>
 <p style="line-height: 1.5;">01.2025~Present</p>
-<p style="line-height: 1.5;">wldnjs4685@gmail.com</p>
+<p style="line-height: 1.5;">wldnjs4685 [at] gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Diffusion Model</p>
 
 &nbsp;
@@ -99,7 +99,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Gyeong Moon Kim (김경문)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
-<p style="line-height: 1.5;">rlarudans134@jbnu.ac.kr</p>
+<p style="line-height: 1.5;">rlarudans134 [at] jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 &nbsp;
@@ -113,7 +113,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Jun Hyeong Kim (김준형)</b></p>
 <p style="line-height: 1.5;">01.2025~Present</p>
-<p style="line-height: 1.5;">kjh71568289@gmail.com</p>
+<p style="line-height: 1.5;">kjh71568289 [at] gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 &nbsp;
@@ -127,7 +127,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Jiho Pyo (표지호)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
-<p style="line-height: 1.5;">jyjh0501@naver.com</p>
+<p style="line-height: 1.5;">jyjh0501 [at] naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 &nbsp;
@@ -143,7 +143,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Sungwoo Jeon (전성우)</b></p>
 <p style="line-height: 1.5;">03.2024~Present</p>
-<p style="line-height: 1.5;">muusp123@naver.com</p>
+<p style="line-height: 1.5;">muusp123 [at] naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
 &nbsp;
@@ -157,7 +157,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Heeyeon Kim (김희연)</b></p>
 <p style="line-height: 1.5;">09.2024~Present</p>
-<p style="line-height: 1.5;">heeyeon23@jbnu.ac.kr</p>
+<p style="line-height: 1.5;">heeyeon23 [at] jbnu.ac.kr</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Depth Estimation </p>
 
 &nbsp;
@@ -172,7 +172,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Min Hyeok Bang (방민혁)</b></p>
 <p style="line-height: 1.5;">04.2025 ~ Present</p>
-<p style="line-height: 1.5;">lowzxx@naver.com</p>
+<p style="line-height: 1.5;">lowzxx [at] naver.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction </p>
 
 &nbsp;
@@ -188,7 +188,6 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>SeungChan Lee (이승찬)</b></p>
 <p style="line-height: 1.5;">Research Intern: 09.2022~02.2025</p>
-<p style="line-height: 1.5;">sclee0724@gmail.com</p>
 <p style="line-height: 1.5;"><b>Current Position</b>: Master’s course at Chung-Ang University</p>
 
 &nbsp;
@@ -203,7 +202,6 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Jaemin Park (박재민)</b></p>
 <p style="line-height: 1.5;">Research Intern: 03.2023~02.2025</p>
-<p style="line-height: 1.5;">jaemin9505@naver.com</p>
 
 &nbsp;
 
