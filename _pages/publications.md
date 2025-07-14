@@ -7,8 +7,6 @@ author_profile: false
 
 
 ### Submitted/In preparation
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," 2025 (In revision). </font>
-
 1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," 2025 (Submitted). </font>
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Effective federated learning with weight standardization," 2025 (In preparation). </font>
@@ -21,6 +19,8 @@ author_profile: false
 
 
 ### Journal Articles
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i>IEEE Transactions on Multimedia</i> 2025. </font>
+
 1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Adaptive video demoiréing network with subtraction-guided alignment," <i>IEEE Signal Processing Letters</i>, 2025. </font>
 
 1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee*</b>, and Seung-Wook Kim*, "Enhanced blur-robust monocular depth estimation via self-supervised learning," <i>Electronics Letters</i>, vol. 60, Nov., 2024, <A href = "https://doi.org/10.1049/ell2.70098"> https://doi.org/10.1049/ell2.70098</A>.</font>
