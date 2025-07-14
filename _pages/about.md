@@ -31,7 +31,7 @@ Contact Us
 Latest News
 =====
 
-1. Jul. 2025 - <b>Accepted</b>. "Image enhancement based on pigment representation," <b>IEEE Transactions on Multimedia</b><.
+1. Jul. 2025 - <b>Accepted</b>. "Image enhancement based on pigment representation," <b>IEEE Transactions on Multimedia</b>.
 1. Jun. 2025 - <b>Accepted</b>. "Adaptive video demoiréing network with subtraction-guided alignment," IEEE Signal Processing Letters. This marks our lab’s first student-led publication. We are pleased to share two consecutive days of good news.
 1. Jun. 2025 - <b>Accepted</b>. "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>ICCV</b></i>. This is our lab's first top-tier conference paper at JBNU.
 1. Nov. 2024 - <b>Accepted</b>. "Enhanced blur-robust monocular depth estimation via self-supervised learning," Electronic Letters.
