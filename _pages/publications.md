@@ -19,7 +19,7 @@ author_profile: false
 
 
 ### Journal Articles
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, 2025. </font> [[Paper]](https://www.arxiv.org/abs/2506.23516)[[Project page]](https://github.com/jbnu-vilab/pigment_enhancement)
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, 2025. </font> [[Paper]](https://www.arxiv.org/abs/2506.23516) [[Project page]](https://github.com/jbnu-vilab/pigment_enhancement)
 
 1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Adaptive video demoiréing network with subtraction-guided alignment," <i>IEEE Signal Processing Letters</i>, 2025. </font> [[Paper]](https://ieeexplore.ieee.org/document/11068144) [[Project page]](https://github.com/Oksta1002/AVDNet)
 
