@@ -24,7 +24,10 @@ author_profile: false
     [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project page</a>]
   </span>
 
-1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Adaptive video demoiréing network with subtraction-guided alignment," <i>IEEE Signal Processing Letters</i>, 2025. </font> [[Paper]](https://ieeexplore.ieee.org/document/11068144) [[Project page]](https://github.com/Oksta1002/AVDNet)
+1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Adaptive video demoiréing network with subtraction-guided alignment," <i>IEEE Signal Processing Letters</i>, 2025. </font> <span style="font-size:0.8em">
+    [<a href="https://ieeexplore.ieee.org/document/11068144">Paper</a>] 
+    [<a href="https://github.com/Oksta1002/AVDNet">Project page</a>]
+  </span>
 
 1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee*</b>, and Seung-Wook Kim*, "Enhanced blur-robust monocular depth estimation via self-supervised learning," <i>Electronics Letters</i>, vol. 60, Nov., 2024, <A href = "https://doi.org/10.1049/ell2.70098"> https://doi.org/10.1049/ell2.70098</A>.</font>
 
