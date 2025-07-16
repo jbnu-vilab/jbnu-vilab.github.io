@@ -24,8 +24,7 @@ author_profile: false
     [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project Page</a>]
   </span>
 
-1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Adaptive video demoiréing network with subtraction-guided alignment," <i>IEEE Signal Processing Letters</i>, 2025. </font> <span style="font-size:0.8em">
-    [<a href="https://ieeexplore.ieee.org/document/11068144">Paper</a>] 
+1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Adaptive video demoiréing network with subtraction-guided alignment," <i>IEEE Signal Processing Letters</i>, 2025, https://doi.org/10.1109/LSP.2025.3585820. </font> <span style="font-size:0.8em">
     [<a href="https://github.com/Oksta1002/AVDNet">Project Page</a>]
   </span>
 
