@@ -21,12 +21,12 @@ author_profile: false
 ### Journal Articles
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, 2025. </font> <span style="font-size:0.8em">
     [<a href="https://www.arxiv.org/abs/2506.23516">Paper</a>] 
-    [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project page</a>]
+    [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project Page</a>]
   </span>
 
 1. <font size="3em" color="black"> Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Adaptive video demoiréing network with subtraction-guided alignment," <i>IEEE Signal Processing Letters</i>, 2025. </font> <span style="font-size:0.8em">
     [<a href="https://ieeexplore.ieee.org/document/11068144">Paper</a>] 
-    [<a href="https://github.com/Oksta1002/AVDNet">Project page</a>]
+    [<a href="https://github.com/Oksta1002/AVDNet">Project Page</a>]
   </span>
 
 1. <font size="3em" color="black"> Chi-Hun Sung, Seong-Yeol Kim, Ho-Ju Shin, <b>Se-Ho Lee*</b>, and Seung-Wook Kim*, "Enhanced blur-robust monocular depth estimation via self-supervised learning," <i>Electronics Letters</i>, vol. 60, Nov., 2024, <A href = "https://doi.org/10.1049/ell2.70098"> https://doi.org/10.1049/ell2.70098</A>.</font>
@@ -48,7 +48,7 @@ author_profile: false
 1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> <span style="font-size:0.8em">
     [<a href="https://www.arxiv.org/abs/2506.23516">Paper</a>]
     [<a href="https://github.com/Seongyeol-kim/FedWSQ">Code</a>] 
-    [<a href="https://arxiv.org/html/2506.23516v1">Project page</a>]
+    [<a href="https://arxiv.org/html/2506.23516v1">Project Page</a>]
   </span>
   
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i><b>in Proc. ICCV</b></i>, Venice, Italy, Oct. 2017. </font>
