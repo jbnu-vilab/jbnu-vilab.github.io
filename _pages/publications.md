@@ -39,7 +39,7 @@ author_profile: false
 
 ### Conference Papers
 
-1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> [[Paper]](https://www.arxiv.org/abs/2506.23516)[[Code]](https://github.com/Seongyeol-kim/FedWSQ)[[Project page]](https://arxiv.org/html/2506.23516v1)
+1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> [[Paper]](https://www.arxiv.org/abs/2506.23516) [[Code]](https://github.com/Seongyeol-kim/FedWSQ) [[Project page]](https://arxiv.org/html/2506.23516v1)
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i><b>in Proc. ICCV</b></i>, Venice, Italy, Oct. 2017. </font>
 
