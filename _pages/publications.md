@@ -19,7 +19,7 @@ author_profile: false
 
 
 ### Journal Articles
-1. <p style="font-size:1.2em; color:black; white-space: nowrap;"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, 2025. </font> <span style="font-size:0.8em">
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, 2025. </font> <span style="font-size:0.8em">
     [<a href="https://www.arxiv.org/abs/2506.23516">Paper</a>] 
     [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project page</a>]
   </span>
