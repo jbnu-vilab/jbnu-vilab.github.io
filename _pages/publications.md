@@ -7,9 +7,9 @@ author_profile: false
 
 
 ### Submitted/In preparation
-1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," 2025 (Submitted). </font>
+1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," 2025 (In revision). </font>
 
-1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Effective federated learning with weight standardization," 2025 (In preparation). </font>
+1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Stabilizing federated learning using structured gradient regularization of weight standardization," 2025 (Submitted). </font>
 
 
 
