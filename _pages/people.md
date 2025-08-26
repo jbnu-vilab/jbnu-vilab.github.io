@@ -80,19 +80,6 @@ author_profile: false
 &nbsp;
 ## Research Interns
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jwpark.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Ji Won Park (박지원)</b></p>
-<p style="line-height: 1.5;">01.2025~Present</p>
-<p style="line-height: 1.5;">wldnjs4685 [at] gmail.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Diffusion Model</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/kmkim.jpg" width="130" >
