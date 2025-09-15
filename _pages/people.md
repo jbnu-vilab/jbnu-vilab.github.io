@@ -125,19 +125,19 @@ author_profile: false
 
 
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jeon.jpeg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Sungwoo Jeon (전성우)</b></p>
-<p style="line-height: 1.5;">03.2024~Present</p>
-<p style="line-height: 1.5;">muusp123 [at] naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+#<div style="width:150px; height:224px; float:left;">
+#<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jeon.jpeg" width="130" >
+#</div>
+#<p style="line-height: 1.5;"><b>Sungwoo Jeon (전성우)</b></p>
+#<p style="line-height: 1.5;">03.2024~Present</p>
+#<p style="line-height: 1.5;">muusp123 [at] naver.com</p>
+#<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
 
-&nbsp;
+#&nbsp;
 
-&nbsp;
+#&nbsp;
 
-&nbsp;
+#&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/heeyeon.jpeg" width="130" >
