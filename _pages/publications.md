@@ -7,7 +7,7 @@ author_profile: false
 
 
 ### Submitted/In preparation
-<!-- 1. <font size="3em" color="black"> Min Hyeok Bang, Jun Hyeong Kim, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry transfer in 3D Gaussian Splatting," 2025 (In preparation). </font> -->
+1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry transfer in 3D Gaussian Splatting," 2025 (In preparation). </font>
 
 1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, <b>Se-Ho Lee</b>, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," 2025 (In preparation). </font>
 
