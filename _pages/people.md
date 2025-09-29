@@ -71,7 +71,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Seunghun Ok (옥승헌)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
 <p style="line-height: 1.5;">cornking123 [at] jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Demoiréing</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Demoiréing, View Synthesis</p>
 
 &nbsp;
 
@@ -101,7 +101,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Jun Hyeong Kim (김준형)</b></p>
 <p style="line-height: 1.5;">01.2025~Present</p>
 <p style="line-height: 1.5;">kjh71568289 [at] gmail.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Gaussian Splatting </p>
 
 &nbsp;
 
@@ -115,7 +115,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Jiho Pyo (표지호)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
 <p style="line-height: 1.5;">jyjh0501 [at] naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: View Synthesis </p>
 
 &nbsp;
 
@@ -131,7 +131,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Heeyeon Kim (김희연)</b></p>
 <p style="line-height: 1.5;">09.2024~Present</p>
 <p style="line-height: 1.5;">heeyeon23 [at] jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Depth Estimation </p>
+<p style="line-height: 1.5;"><b>Research Area</b>: View Synthesis </p>
 
 &nbsp;
 
@@ -146,6 +146,21 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Min Hyeok Bang (방민혁)</b></p>
 <p style="line-height: 1.5;">04.2025 ~ Present</p>
 <p style="line-height: 1.5;">lowzxx [at] naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Gaussian Splatting </p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hwang.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Seunwoo Hwang (황선우)</b></p>
+<p style="line-height: 1.5;">09.2025 ~ Present</p>
+<p style="line-height: 1.5;">ㄴ조06084 [at] gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction </p>
 
 &nbsp;
@@ -153,6 +168,7 @@ author_profile: false
 &nbsp;
 
 &nbsp;
+
 
 ## Alumni
 
