@@ -160,7 +160,7 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Seunwoo Hwang (황선우)</b></p>
 <p style="line-height: 1.5;">09.2025 ~ Present</p>
-<p style="line-height: 1.5;">ㄴ조06084 [at] gmail.com</p>
+<p style="line-height: 1.5;">swh06084 [at] gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction </p>
 
 &nbsp;
