@@ -81,19 +81,6 @@ author_profile: false
 ## Research Interns
 
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/kmkim.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Gyeong Moon Kim (김경문)</b></p>
-<p style="line-height: 1.5;">03.2025~Present</p>
-<p style="line-height: 1.5;">rlarudans134 [at] jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jhkim.jpg" width="130" >
