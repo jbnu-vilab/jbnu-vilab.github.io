@@ -46,7 +46,7 @@ author_profile: false
 ### Conference Papers
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> <span style="font-size:0.8em">
-    [<a href="https://www.arxiv.org/abs/2506.23516">Paper</a>]
+    [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_FedWSQ_Efficient_Federated_Learning_with_Weight_Standardization_and_Distribution-Aware_Non-Uniform_ICCV_2025_paper.pdf">Paper</a>]
     [<a href="https://github.com/Seongyeol-kim/FedWSQ">Code</a>] 
     [<a href="https://arxiv.org/html/2506.23516v1">Project Page</a>]
   </span>
