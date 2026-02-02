@@ -37,19 +37,6 @@ author_profile: false
 
 ## Master Students
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/euiae.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>EuiJae Lee (이의재)</b></p>
-<p style="line-height: 1.5;">03.2024~Present</p>
-<p style="line-height: 1.5;">euijaebilly [at] jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/kim.png" width="130" >
@@ -158,6 +145,19 @@ author_profile: false
 
 
 ## Alumni
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/euiae.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>EuiJae Lee (이의재)</b></p>
+<p style="line-height: 1.5;">03.2024~02.2026</p>
+<p style="line-height: 1.5;"><b>Current Position</b>: Robocon </p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/Lee.jpe" width="130" >
