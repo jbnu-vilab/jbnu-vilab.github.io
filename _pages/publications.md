@@ -98,19 +98,23 @@ author_profile: false
 
 ### International Granted Patents
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Apparatus and method for restoring video, " Patent No. JP 7687790 B2, Jun. 2025. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Image restoration methods and image restoration devices, " Patent No. CN 112750085 B, Jan., 2026. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. EP 3944182 B1, Feb. 2025. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. EP 4050553 B1, Oct., 2025. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 12073534 B2, Aug. 2024. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Apparatus and method for restoring video, " Patent No. JP 7687790 B2, Jun., 2025. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug. 2023. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. EP 3944182 B1, Feb., 2025. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May. 2023. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 12073534 B2, Aug., 2024. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 11651475 B2, May 2023. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug., 2023. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. EP 3816929 B1, Nov. 2022. </font>
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May, 2023. </font>
+
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 11651475 B2, May, 2023. </font>
+
+1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. EP 3816929 B1, Nov., 2022. </font>
 
 
 
