@@ -99,20 +99,6 @@ author_profile: false
 
 
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/heeyeon.jpeg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Heeyeon Kim (김희연)</b></p>
-<p style="line-height: 1.5;">09.2024~Present</p>
-<p style="line-height: 1.5;">heeyeon23 [at] jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: View Synthesis </p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/bang.jpg" width="130" >
