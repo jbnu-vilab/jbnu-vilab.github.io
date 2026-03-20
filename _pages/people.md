@@ -70,7 +70,7 @@ author_profile: false
 
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/jhkim.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/김준형(2).jpeg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Jun Hyeong Kim (김준형)</b></p>
 <p style="line-height: 1.5;">01.2025~Present</p>
@@ -88,8 +88,8 @@ author_profile: false
 </div>
 <p style="line-height: 1.5;"><b>Jiho Pyo (표지호)</b></p>
 <p style="line-height: 1.5;">03.2025~Present</p>
-<p style="line-height: 1.5;">jyjh0501 [at] naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: View Synthesis </p>
+<p style="line-height: 1.5;">hoyyang22 [at] jbnu.ac.kr</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction </p>
 
 &nbsp;
 
@@ -130,7 +130,7 @@ author_profile: false
 &nbsp;
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/not_determined.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/이정민.jpg" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Jeong Min Lee (이정민)</b></p>
 <p style="line-height: 1.5;">03.2026 ~ Present</p>
@@ -145,7 +145,7 @@ author_profile: false
 
 
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/not_determined.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/천선우.png" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Seon Woo Cheon (천선우)</b></p>
 <p style="line-height: 1.5;">03.2026 ~ Present</p>
@@ -159,8 +159,9 @@ author_profile: false
 &nbsp;
 
 
+
 <div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/not_determined.jpg" width="130" >
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/조이진.png" width="130" >
 </div>
 <p style="line-height: 1.5;"><b>Ijin Jo (조이진)</b></p>
 <p style="line-height: 1.5;">03.2026 ~ Present</p>
@@ -173,6 +174,19 @@ author_profile: false
 
 &nbsp;
 
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/위지우.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>JiWoo Wi (위지우)</b></p>
+<p style="line-height: 1.5;">03.2026 ~ Present</p>
+<p style="line-height: 1.5;">wiju13 [at] naver.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: TBD </p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## Alumni
 
