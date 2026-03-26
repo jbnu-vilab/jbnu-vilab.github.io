@@ -24,7 +24,7 @@ author_profile: false
 
 <p style="text-align:center; font-size:0.88em; color:#555; margin-top:0;">Fig. 1. AVDNet architecture.</p>
 
-Moiré artifacts arise from frequency interference between display grids and camera sensors, causing visually disturbing patterns in captured photos and videos. We address both image and video demoiréing by exploiting spectral and temporal characteristics of moiré patterns. Our adaptive video demoiréing network (AVDNet) suppresses moiré adaptively in the implicit frequency domain via a learnable bandpass filter (ABB), and uses inter-frame subtraction maps to guide temporal alignment and prevent moiré propagation across frames (SGAB). For image demoiréing, we propose a multiscale coarse-to-fine strategy that exploits correlations between moiré frequencies at multiple scales.
+Moiré artifacts arise from frequency interference between display grids and camera sensors, causing visually disturbing patterns in captured photos and videos. We address both image and video demoiréing by exploiting spectral and temporal characteristics of moiré patterns. Our adaptive video demoiréing network (AVDNet) suppresses moiré adaptively in the implicit frequency domain via a learnable bandpass filter (ABB), and uses inter-frame subtraction maps to guide temporal alignment and prevent moiré propagation across frames (SGAB).
 
 <figure style="margin: 2em 0; text-align: center;">
   <img src="/files/figure3.png" alt="Visual comparison of demoiréing results" style="width: 100%;">
