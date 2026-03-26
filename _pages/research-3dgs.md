@@ -15,8 +15,4 @@ author_profile: false
   Your browser does not support the video tag.
 </video>
 
-We present a novel geometry-aware style transfer framework for 3D Gaussian Splatting (3DGS) that simultaneously transfers both appearance attributes and geometric structures from a style image. Unlike previous works that focus solely on color-based stylization, our method explicitly incorporates geometry adaptation through a decoupled optimization scheme that alternately updates color and geometry parameters. The decoupled optimization is enabled by the proposed geometry-aware contrastive feature matching (GCFM), which integrates RGB, depth, and edge cues into a contrastive objective for effective and structurally consistent style transfer.
-
-**Publications**
-
-- Min Hyeok Bang\*, Jun Hyeong Kim\*, Seung-Wook Kim, and **Se-Ho Lee**, "Geometry-aware style transfer in 3D Gaussian splatting," *ECCV*, 2026 (Submitted).
+We explore geometry-aware style transfer for 3D Gaussian Splatting (3DGS), aiming to transfer not only the appearance but also the geometric structure of a style reference into a 3D scene representation.
