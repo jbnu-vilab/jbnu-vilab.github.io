@@ -8,7 +8,7 @@ author_profile: false
 
 ---
 
-## Image Enhancement
+## Image Enhancement Based on Pigment Representation
 
 <figure style="margin: 2em 0; text-align: center;">
   <img src="/files/figure6.png" alt="Qualitative comparison for tone mapping" style="width: 100%;">
