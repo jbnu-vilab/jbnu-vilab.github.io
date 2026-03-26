@@ -7,7 +7,7 @@ author_profile: false
 
 ### On-Going Projects
 1. <font size="3em" color="black"> "모바일과 IoT 기기를 위한 딥페이크 대응 통합 프레임워크 개발," 한국연구재단 신진연구, 03/2026-02/2029. </font>
-
+1. <font size="3em" color="black"> "딥러닝 기반 디무아레 기법 개발," 국립과학수사연구원, 04/2026-11/2026. </font>
 
 
 
