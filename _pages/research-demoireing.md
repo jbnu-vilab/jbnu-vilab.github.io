@@ -86,5 +86,5 @@ TABLE I. Quantitative comparison on VDmoire dataset. <strong>Bold</strong>: best
 
 **Publications**
 
-- Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and **Se-Ho Lee**, "Adaptive video demoiréing network with subtraction-guided alignment," *IEEE Signal Processing Letters*, vol. 32, Jul. 2025. \[[DOI](https://doi.org/10.1109/LSP.2025.3585820)\] \[[Code](https://github.com/Oksta1002/AVDNet)\]
-- Duong Hai Nguyen, **Se-Ho Lee**, and Chul Lee, "Multiscale coarse-to-fine guided screenshot demoiréing," *IEEE Signal Processing Letters*, vol. 30, pp. 898–902, Jul. 2023. \[[DOI](https://doi.org/10.1109/LSP.2023.3296039)\]
+- Seung-Hun Ok, Young-Min Choi, Seung-Wook Kim, and Se-Ho Lee, "Adaptive video demoiréing network with subtraction-guided alignment," *IEEE Signal Processing Letters*, vol. 32, Jul. 2025. \[[DOI](https://doi.org/10.1109/LSP.2025.3585820)\] \[[Code](https://github.com/Oksta1002/AVDNet)\]
+- Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, "Multiscale coarse-to-fine guided screenshot demoiréing," *IEEE Signal Processing Letters*, vol. 30, pp. 898–902, Jul. 2023. \[[DOI](https://doi.org/10.1109/LSP.2023.3296039)\]

@@ -64,5 +64,5 @@ TABLE I. Quantitative comparisons on MIT-Adobe FiveK (480p) for photo retouching
 
 **Publications**
 
-- **Se-Ho Lee**, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," *IEEE Transactions on Multimedia*, 2026. \[[DOI](https://doi.org/10.1109/TMM.2026.3654419)\] \[[Project](https://github.com/jbnu-vilab/pigment_enhancement)\]
-- **Se-Ho Lee** and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," *Journal of Visual Communication and Image Representation*, vol. 104, pp. 104308, Oct. 2024. \[[DOI](https://doi.org/10.1016/j.jvcir.2024.104308)\]
+- Se-Ho Lee, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," *IEEE Transactions on Multimedia*, 2026. \[[DOI](https://doi.org/10.1109/TMM.2026.3654419)\] \[[Project](https://github.com/jbnu-vilab/pigment_enhancement)\]
+- Se-Ho Lee and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," *Journal of Visual Communication and Image Representation*, vol. 104, pp. 104308, Oct. 2024. \[[DOI](https://doi.org/10.1016/j.jvcir.2024.104308)\]
