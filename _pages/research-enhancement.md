@@ -8,7 +8,7 @@ author_profile: false
 
 ---
 
-## Image Enhancement
+## Image Enhancement Based on Pigment Representation
 
 <figure style="margin: 1.5em 0; text-align: center;">
   <img src="/files/figure1.png" alt="Pigment representation framework" style="width: 100%;">
