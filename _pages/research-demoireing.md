@@ -12,17 +12,14 @@ author_profile: false
 
 <figure style="margin: 0.5em auto; text-align: center; max-width: 85%;">
   <img src="/files/fig2a.png" alt="Overview of AVDNet" style="width:100%;">
-  <figcaption style="font-size:0.85em; color:#555; margin-top:4px;">(a) Overview of AVDNet</figcaption>
 </figure>
 
 <figure style="margin: 0.5em auto; text-align: center; max-width: 85%;">
   <img src="/files/fig2b.png" alt="Architecture of ABB" style="width:100%;">
-  <figcaption style="font-size:0.85em; color:#555; margin-top:4px;">(b) Architecture of the Adaptive Bandpass Block (ABB)</figcaption>
 </figure>
 
 <figure style="margin: 0.5em auto; text-align: center; max-width: 85%;">
   <img src="/files/fig2c.png" alt="Architecture of SGAB" style="width:100%;">
-  <figcaption style="font-size:0.85em; color:#555; margin-top:4px;">(c) Architecture of the Subtraction-Guided Alignment Block (SGAB)</figcaption>
 </figure>
 
 <p style="text-align:center; font-size:0.88em; color:#555; margin-top:0;">Fig. 1. AVDNet architecture.</p>
