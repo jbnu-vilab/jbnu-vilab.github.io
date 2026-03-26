@@ -1,5 +1,5 @@
 ---
-title: "Demoiréing"
+title: "Image/Video Demoiréing"
 permalink: /research/demoireing/
 author_profile: false
 ---
@@ -8,22 +8,24 @@ author_profile: false
 
 ---
 
-## Demoiréing
+## Image/Video Demoiréing
 
-<table style="width:100%; border:none; border-collapse:collapse; margin:1.5em 0;">
-<tr>
-<td style="border:none; padding:4px; vertical-align:top; width:33.3%;">
+<figure style="margin: 1.5em auto; text-align: center; max-width: 85%;">
   <img src="/files/fig2a.png" alt="Overview of AVDNet" style="width:100%;">
-</td>
-<td style="border:none; padding:4px; vertical-align:top; width:33.3%;">
+  <figcaption style="font-size:0.85em; color:#555; margin-top:4px;">(a) Overview of AVDNet</figcaption>
+</figure>
+
+<figure style="margin: 1.5em auto; text-align: center; max-width: 85%;">
   <img src="/files/fig2b.png" alt="Architecture of ABB" style="width:100%;">
-</td>
-<td style="border:none; padding:4px; vertical-align:top; width:33.3%;">
+  <figcaption style="font-size:0.85em; color:#555; margin-top:4px;">(b) Architecture of the Adaptive Bandpass Block (ABB)</figcaption>
+</figure>
+
+<figure style="margin: 1.5em auto; text-align: center; max-width: 85%;">
   <img src="/files/fig2c.png" alt="Architecture of SGAB" style="width:100%;">
-</td>
-</tr>
-</table>
-<p style="text-align:center; font-size:0.88em; color:#555; margin-top:0;">Fig. 1. AVDNet architecture. (a) Overview, (b) Adaptive Bandpass Block (ABB), (c) Subtraction-Guided Alignment Block (SGAB).</p>
+  <figcaption style="font-size:0.85em; color:#555; margin-top:4px;">(c) Architecture of the Subtraction-Guided Alignment Block (SGAB)</figcaption>
+</figure>
+
+<p style="text-align:center; font-size:0.88em; color:#555; margin-top:0;">Fig. 1. AVDNet architecture.</p>
 
 Moiré artifacts arise from frequency interference between display grids and camera sensors, causing visually disturbing patterns in captured photos and videos. We address both image and video demoiréing by exploiting spectral and temporal characteristics of moiré patterns. Our adaptive video demoiréing network (AVDNet) suppresses moiré adaptively in the implicit frequency domain via a learnable bandpass filter (ABB), and uses inter-frame subtraction maps to guide temporal alignment and prevent moiré propagation across frames (SGAB). For image demoiréing, we propose a multiscale coarse-to-fine strategy that exploits correlations between moiré frequencies at multiple scales.
 

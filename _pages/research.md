@@ -20,9 +20,9 @@ Content-adaptive color enhancement via pigment representations and deformable co
 
 ---
 
-### [Demoiréing](/research/demoireing/)
+### [Image/Video Demoiréing](/research/demoireing/)
 
-Adaptive suppression of moiré artifacts in images and videos using spectral and temporal cues.
+Image and video demoiréing by adaptively suppressing moiré artifacts using spectral and temporal cues.
 
 ---
 
