@@ -20,7 +20,7 @@ author_profile: false
   <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 2. Overall framework of the proposed pigment representation-based image enhancement method.</figcaption>
 </figure>
 
-We develop deep learning-based image enhancement methods that adaptively improve visual quality across diverse conditions. Our core approach transforms input RGB colors into a high-dimensional *pigment* representation customized for each image, enabling complex color mappings that go beyond conventional pre-defined color spaces such as RGB or CIE LAB. The pigment-based method consists of five stages: visual encoder, pigment expansion, pigment reprojection, pigment blending, and RGB reconstruction. In parallel, we explore deformable control point networks (DCPNet) that flexibly parameterize global transformation functions per color channel, applicable to photo retouching, tone mapping, and underwater image enhancement.
+We develop deep learning-based image enhancement methods that adaptively improve visual quality across diverse conditions. Our core approach transforms input RGB colors into a high-dimensional *pigment* representation customized for each image, enabling complex color mappings that go beyond conventional pre-defined color spaces such as RGB or CIE LAB. The pigment-based method consists of five stages: visual encoder, pigment expansion, pigment reprojection, pigment blending, and RGB reconstruction.
 
 
 
