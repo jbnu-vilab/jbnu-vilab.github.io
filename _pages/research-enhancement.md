@@ -18,13 +18,13 @@ author_profile: false
 We develop deep learning-based image enhancement methods that adaptively improve visual quality across diverse conditions. Our core approach transforms input RGB colors into a high-dimensional *pigment* representation customized for each image, enabling complex color mappings that go beyond conventional pre-defined color spaces such as RGB or CIE LAB. The pigment-based method consists of five stages: visual encoder, pigment expansion, pigment reprojection, pigment blending, and RGB reconstruction. In parallel, we explore deformable control point networks (DCPNet) that flexibly parameterize global transformation functions per color channel, applicable to photo retouching, tone mapping, and underwater image enhancement.
 
 <figure style="margin: 2em 0; text-align: center;">
-  <img src="/files/figure5.png" alt="Qualitative comparison results" style="width: 100%;">
-  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 2. Qualitative comparisons on MIT-Adobe FiveK for photo retouching: (a) GT (retouched by expert C) with its corresponding input image. (b) 4D LUT, (c) CoTF, (d) Proposed, each shown with its error map (upper-left, range 0–40).</figcaption>
+  <img src="/files/figure6.png" alt="Qualitative comparison for tone mapping" style="width: 100%;">
+  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 2. Qualitative comparisons on the MIT-Adobe FiveK dataset for tone mapping: (a) shows GT with its corresponding input image. (b), (c), and (d) show the resultant images and their corresponding error maps obtained by AdaInt, CoTF, and the proposed method, respectively.</figcaption>
 </figure>
 
 <figure style="margin: 2em 0; text-align: center;">
-  <img src="/files/figure6.png" alt="Qualitative comparison for tone mapping" style="width: 100%;">
-  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 3. Qualitative comparisons on MIT-Adobe FiveK for tone mapping: (a) GT with its corresponding input image. (b) AdaInt, (c) CoTF, (d) Proposed, each shown with its error map (upper-left, range 0–40).</figcaption>
+  <img src="/files/figure5.png" alt="Qualitative comparison for photo retouching" style="width: 100%;">
+  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 3. Qualitative comparisons on the MIT-Adobe FiveK dataset for photo retouching: (a) shows GT (retouched by expert C) with its corresponding input image. (b), (c), and (d) show the resultant images and their corresponding error maps obtained by 4D LUT, CoTF, and the proposed method, respectively.</figcaption>
 </figure>
 
 <div style="overflow-x: auto; margin: 2em 0;">
