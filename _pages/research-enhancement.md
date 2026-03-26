@@ -10,17 +10,19 @@ author_profile: false
 
 ## Image Enhancement
 
+<figure style="margin: 2em 0; text-align: center;">
+  <img src="/files/figure6.png" alt="Qualitative comparison for tone mapping" style="width: 100%;">
+  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 1. Comparisons of the (a) 1D LUT-based method, (b) 3D LUT-based method, and (c) the proposed pigment representation-based method. In (c), the input image is first converted into a set of pigments, which are then transformed using pigment reprojection functions. The reprojected pigments are subsequently combined to reconstruct the enhanced image.</figcaption>
+</figure>
+
 <figure style="margin: 1.5em 0; text-align: center;">
   <img src="/files/figure1.png" alt="Pigment representation framework" style="width: 100%;">
-  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 1. Overall framework of the proposed pigment representation-based image enhancement method.</figcaption>
+  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 2. Overall framework of the proposed pigment representation-based image enhancement method.</figcaption>
 </figure>
 
 We develop deep learning-based image enhancement methods that adaptively improve visual quality across diverse conditions. Our core approach transforms input RGB colors into a high-dimensional *pigment* representation customized for each image, enabling complex color mappings that go beyond conventional pre-defined color spaces such as RGB or CIE LAB. The pigment-based method consists of five stages: visual encoder, pigment expansion, pigment reprojection, pigment blending, and RGB reconstruction. In parallel, we explore deformable control point networks (DCPNet) that flexibly parameterize global transformation functions per color channel, applicable to photo retouching, tone mapping, and underwater image enhancement.
 
-<figure style="margin: 2em 0; text-align: center;">
-  <img src="/files/figure6.png" alt="Qualitative comparison for tone mapping" style="width: 100%;">
-  <figcaption style="margin-top: 0.5em; font-size: 0.88em; color: #555;">Fig. 2. Qualitative comparisons on the MIT-Adobe FiveK dataset for tone mapping: (a) shows GT with its corresponding input image. (b), (c), and (d) show the resultant images and their corresponding error maps obtained by AdaInt, CoTF, and the proposed method, respectively.</figcaption>
-</figure>
+
 
 <figure style="margin: 2em 0; text-align: center;">
   <img src="/files/figure5.png" alt="Qualitative comparison for photo retouching" style="width: 100%;">
