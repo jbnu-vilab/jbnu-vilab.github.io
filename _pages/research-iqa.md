@@ -8,7 +8,7 @@ author_profile: false
 
 ---
 
-## Image Quality Assessment
+## Image Enhancement Based on Pigment Representation
 
 <figure style="margin: 1.5em 0; text-align: center;">
   <img src="/files/figure4.png" alt="Dual-branch vision transformer for BIQA" style="width: 100%;">
