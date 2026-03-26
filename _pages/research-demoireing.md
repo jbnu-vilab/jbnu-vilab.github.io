@@ -8,7 +8,7 @@ author_profile: false
 
 ---
 
-## Image/Video Demoiréing
+## Adaptive Video Demoiréing Network with Subtraction-Guided Alignment
 
 <figure style="margin: 0.5em auto; text-align: center; max-width: 65%;">
   <img src="/files/fig2a.png" alt="Overview of AVDNet" style="width:100%;">
