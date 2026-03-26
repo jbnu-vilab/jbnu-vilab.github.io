@@ -19,6 +19,7 @@ Research Interests
 * Depth Estimation
 * Diffusion Model
 * Image Enhancement
+* Image/Video Demoiréing
 * Image Quality Assessment
 
 Contact Us
