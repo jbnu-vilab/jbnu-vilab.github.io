@@ -10,15 +10,15 @@ author_profile: false
 
 ## Image/Video Demoiréing
 
-<figure style="margin: 0.5em auto; text-align: center; max-width: 85%;">
+<figure style="margin: 0.5em auto; text-align: center; max-width: 65%;">
   <img src="/files/fig2a.png" alt="Overview of AVDNet" style="width:100%;">
 </figure>
 
-<figure style="margin: 0.5em auto; text-align: center; max-width: 85%;">
+<figure style="margin: 0.5em auto; text-align: center; max-width: 65%;">
   <img src="/files/fig2b.png" alt="Architecture of ABB" style="width:100%;">
 </figure>
 
-<figure style="margin: 0.5em auto; text-align: center; max-width: 85%;">
+<figure style="margin: 0.5em auto; text-align: center; max-width: 65%;">
   <img src="/files/fig2c.png" alt="Architecture of SGAB" style="width:100%;">
 </figure>
 
