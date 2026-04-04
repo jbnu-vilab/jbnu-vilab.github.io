@@ -31,6 +31,7 @@ Contact Us
 
 Latest News
 =====
+1. Apr. 2026 - <b>Accepted</b>. "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," <i><b>IEEE Transactions on Circuits and Systems for Video Technology</b></i>.
 1. Mar. 2026 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from National Research Foundation (NRF) of Korea.
 1. Jul. 2025 - <b>Accepted</b>. "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>.
 1. Jun. 2025 - <b>Accepted</b>. "Adaptive video demoiréing network with subtraction-guided alignment," IEEE Signal Processing Letters. This marks our lab’s first student-led publication. We are pleased to share two consecutive days of good news.
