@@ -11,7 +11,6 @@ author_profile: false
 
 1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, <b>Se-Ho Lee</b>, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," 2026 (Submitted). </font>
 
-1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," 2025 (Accepted). </font>
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and <b>Se-Ho Lee</b>, "Stabilizing federated learning using structured gradient regularization of weight standardization," 2025 (Submitted). </font>
 
@@ -23,6 +22,8 @@ author_profile: false
 
 
 ### Journal Articles
+1. <font size="3em" color="black"> Duong Hai Nguyen, <b>Se-Ho Lee</b>, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," 2026 (Accepted). </font>
+
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, 2026, <a href="https://doi.org/10.1109/TMM.2026.3654419">https://doi.org/10.1109/TMM.2026.3654419</a>. </font> <span style="font-size:0.8em">
     [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project Page</a>]
 
