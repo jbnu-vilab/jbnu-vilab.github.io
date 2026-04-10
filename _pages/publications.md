@@ -120,6 +120,8 @@ author_profile: false
 
 
 ### Korean Granted Patents
+1. <font size="3em" color="black"> 옥승헌, <b>이세호</b>, "영상 복원 장치 및 방법," Patent No. 10-2951598, Apr. 2026. </font>
+
 1. <font size="3em" color="black"> <b>이세호</b>, 남동경, 이석, "영상 복원 장치 및 방법," Patent No. 10-2801383, Apr. 2025. </font>
 
 1. <font size="3em" color="black"> <b>이세호</b>, 조양호, 강덕영, "멀티 렌즈 영상 복원 장치 및 방법," Patent No. 10-2680385, Jul. 2024. </font>
