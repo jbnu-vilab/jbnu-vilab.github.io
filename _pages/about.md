@@ -40,9 +40,9 @@ Latest News
 1. Jun. 2025 - <b>Accepted</b>. "<A href = "https://doi.org/10.1109/LSP.2025.3585820">Adaptive video demoiréing network with subtraction-guided alignment</A>," IEEE Signal Processing Letters. This marks our lab’s first student-led publication. We are pleased to share two consecutive days of good news.
 1. Jun. 2025 - <b>Accepted</b>. "<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_FedWSQ_Efficient_Federated_Learning_with_Weight_Standardization_and_Distribution-Aware_Non-Uniform_ICCV_2025_paper.pdf">FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization</a>," <i><b>ICCV</b></i>. This is our lab's first top-tier conference paper at JBNU.
 1. Nov. 2024 - <b>Accepted</b>. "<A href = "https://doi.org/10.1049/ell2.70098"> Enhanced blur-robust monocular depth estimation via self-supervised learning</A>," Electronic Letters.
-1. Oct. 2024 - <b>Accepted</b>. "DCPNet: Deformable control point network for image enhancement," Journal of Visual Communication and Image Representation.
+1. Oct. 2024 - <b>Accepted</b>. "<A href = "https://doi.org/10.1016/j.jvcir.2024.104308"> DCPNet: Deformable control point network for image enhancement</A>," Journal of Visual Communication and Image Representation.
 2. Mar. 2024 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by Jeonbuk National University and Korea Food Research Institute (한국식품연구원).
-3. Jul. 2023 - <b>Accepted</b>. "Multiscale coarse-to-fine guided screenshot demoiréing," IEEE Signal Processing Letters.
-4. May. 2023 - <b>Accepted</b>. "Dual-branch vision transformer for blind image quality assessment," Journal of Visual Communication and Image Representation.
+3. Jul. 2023 - <b>Accepted</b>. "<A href = "https://doi.org/10.1109/LSP.2023.3296039"> Multiscale coarse-to-fine guided screenshot demoiréing</A>," IEEE Signal Processing Letters.
+4. May. 2023 - <b>Accepted</b>. "<A href = "https://doi.org/10.1016/j.jvcir.2023.103850"> Dual-branch vision transformer for blind image quality assessment</A>," Journal of Visual Communication and Image Representation.
 5. Aug. 2022 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by the National Research Foundation (NRF) of Korea (생애첫연구).
 
