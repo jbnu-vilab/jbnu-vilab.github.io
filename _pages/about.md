@@ -1,38 +1,3 @@
----
-permalink: /
-title: "WECOME TO THE VISION INTELLIGENCE LAB (VILab)"
-excerpt: "About me"
-author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-전북대학교 컴퓨터인공지능학부 시각지능연구실에서는 영상처리 및 컴퓨터비전 분야의 다양한 주제로 연구를 수행하고 있습니다. 관심있는 분들은 이세호 교수(seholee [at] jbnu.ac.kr)에게 연락하기 바랍니다.
-
-
-
-Research Interests
-======
-* 3D Gaussian Splatting
-* Federated Learning
-* Depth Estimation
-* Diffusion Model
-* Image Enhancement
-* Image/Video Demoiréing
-* Image Quality Assessment
-
-Contact Us
-=====
-* E-mail: seholee [at] jbnu.ac.kr
-* \[Tel\]: +82-63-270-2417
-* Professor office: # 425, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
-* Visual Intelligence Lab: # 510, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
-
-Latest News
-=====
-1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from INNOPOLIS (연구개발특구진흥재단).
-1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded from National Forensic Service (NFS; 국립과학수사원--
 permalink: /
 title: "WECOME TO THE VISION INTELLIGENCE LAB (VILab)"
 excerpt: "About me"
