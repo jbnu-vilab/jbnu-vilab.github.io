@@ -32,6 +32,7 @@ Contact Us
 Latest News
 =====
 1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by INNOPOLIS (연구개발특구진흥재단).
+1. Apr. 2026 - A patent registered. "동영상 모아레 제거 네트워크 장치," Patent No. 10-2951598. This marks our lab’s first student-led patent registration.
 1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by the National Forensic Service (NFS; 국립과학수사연구원).
 1. Apr. 2026 - <b>Accepted</b>. "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," <i><b>IEEE Transactions on Circuits and Systems for Video Technology</b></i>.
 1. Mar. 2026 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by the National Research Foundation (NRF) of Korea (우수신진연구).
