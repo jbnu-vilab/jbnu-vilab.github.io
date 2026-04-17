@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "WECOME TO THE VISION INTELLIGENCE LAB (VILab)"
 excerpt: "About me"
@@ -43,3 +44,4 @@ Latest News
 3. Jul. 2023 - <b>Accepted</b>. "Multiscale coarse-to-fine guided screenshot demoiréing," IEEE Signal Processing Letters.
 4. May. 2023 - <b>Accepted</b>. "Dual-branch vision transformer for blind image quality assessment," Journal of Visual Communication and Image Representation.
 5. Aug. 2022 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by the National Research Foundation (NRF) of Korea (생애첫연구).
+
