@@ -5,6 +5,29 @@ author_profile: false
 ---
 
 
+<style>
+  .pub-entry {
+    font-size: 1.0em;
+    color: black;
+  }
+
+  .lab-author {
+    color: #0b7285;
+    font-weight: 600;
+  }
+
+  .pub-note {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: -0.4rem;
+    margin-bottom: 1.0rem;
+  }
+</style>
+
+<p class="pub-note">
+  <span class="lab-author">Colored names</span> indicate current or former lab members.
+</p>
+
 
 ### Submitted/In preparation
 
@@ -18,7 +41,7 @@ author_profile: false
 
 
 ### Conference Papers
-1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ICCV</b></i>, Sep. 2026 (Accepted). </font>
+1. <font size="3em" color="black"> <span class="lab-author">Min Hyeok Bang</span>*, Jun Hyeong Kim*, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ICCV</b></i>, Sep. 2026 (Accepted). </font>
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> <span style="font-size:0.8em">
     [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_FedWSQ_Efficient_Federated_Learning_with_Weight_Standardization_and_Distribution-Aware_Non-Uniform_ICCV_2025_paper.pdf">Paper</a>]
