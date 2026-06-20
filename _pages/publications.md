@@ -58,16 +58,16 @@ author_profile: false
 
 1. <font size="3em" color="black"> Se-Ho Lee and Seung-Wook Kim, "DCPNet: Deformable control point network for image enhancement," <i>Journal of Visual Communication and Image Representation</i>, vol. 104, pp.104308, Oct., 2024,  <A href = "https://doi.org/10.1016/j.jvcir.2024.104308"> https://doi.org/10.1016/j.jvcir.2024.104308</A>.</font>
 
-1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, "Multiscale coarse-to-fine guided screenshot demoiréing," <i>IEEE Signal Processing Letters</i>, vol. 30, pp. 898-902, Jul. 2023, <A href = "https://doi.org/10.1109/LSP.2023.3296039"> https://doi.org/10.1109/LSP.2023.3296039</A>.</font> <span style="font-size:0.8em">[<a href="https://github.com/nhduong/guided_demoireing_net">Project Page</a>]
+1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, "Multiscale coarse-to-fine guided screenshot demoiréing," <i>IEEE Signal Processing Letters</i>, vol. 30, pp. 898-902, Jul., 2023, <A href = "https://doi.org/10.1109/LSP.2023.3296039"> https://doi.org/10.1109/LSP.2023.3296039</A>.</font> <span style="font-size:0.8em">[<a href="https://github.com/nhduong/guided_demoireing_net">Project Page</a>]
   </span>
 
-1. <font size="3em" color="black"> Se-Ho Lee and Seung-Wook Kim, "Dual-branch vision transformer for blind image quality assessment," <i>Journal of Visual Communication and Image Representation</i>, vol. 94, pp. 103850, Jun. 2023, <A href = "https://doi.org/10.1016/j.jvcir.2023.103850"> https://doi.org/10.1016/j.jvcir.2023.103850</A>.</font>
+1. <font size="3em" color="black"> Se-Ho Lee and Seung-Wook Kim, "Dual-branch vision transformer for blind image quality assessment," <i>Journal of Visual Communication and Image Representation</i>, vol. 94, pp. 103850, Jun., 2023, <A href = "https://doi.org/10.1016/j.jvcir.2023.103850"> https://doi.org/10.1016/j.jvcir.2023.103850</A>.</font>
 
-1. <font size="3em" color="black"> Se-Ho Lee, Won-Dong Jang, and Chang-Su Kim, "Superpixels for image and video processing based on proximity-weighted patch matching," <i>Multimedia Tools and Applications</i>, vol. 79, pp. 13811-13839, Feb. 2020, <A href = "https://doi.org/10.1007/s11042-019-08438-8">https://doi.org/10.1007/s11042-019-08438-8</A>.</font>
+1. <font size="3em" color="black"> Se-Ho Lee, Won-Dong Jang, and Chang-Su Kim, "Superpixels for image and video processing based on proximity-weighted patch matching," <i>Multimedia Tools and Applications</i>, vol. 79, pp. 13811-13839, Feb., 2020, <A href = "https://doi.org/10.1007/s11042-019-08438-8">https://doi.org/10.1007/s11042-019-08438-8</A>.</font>
 
-1. <font size="3em" color="black"> Se-Ho Lee, Won-Dong Jang, and Chang-Su Kim, "Tracking-by-segmentation using superpixel-wise neural network," <i>IEEE Access</i>, vol. 6, pp. 54982-54993, Sep. 2018, <A href = "https://doi.org/10.1109/ACCESS.2018.2872735">https://doi.org/10.1109/ACCESS.2018.2872735</A>. </font>
+1. <font size="3em" color="black"> Se-Ho Lee, Won-Dong Jang, and Chang-Su Kim, "Tracking-by-segmentation using superpixel-wise neural network," <i>IEEE Access</i>, vol. 6, pp. 54982-54993, Sep., 2018, <A href = "https://doi.org/10.1109/ACCESS.2018.2872735">https://doi.org/10.1109/ACCESS.2018.2872735</A>. </font>
 
-1. <font size="3em" color="black"> Se-Ho Lee, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>Journal of Visual Communication and Image Representation</i>, vol. 35, pp. 169-183, Feb. 2016, <A href = "https://doi.org/10.1016/j.jvcir.2015.12.011">https://doi.org/10.1016/j.jvcir.2015.12.011</A>. </font>
+1. <font size="3em" color="black"> Se-Ho Lee, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>Journal of Visual Communication and Image Representation</i>, vol. 35, pp. 169-183, Feb., 2016, <A href = "https://doi.org/10.1016/j.jvcir.2015.12.011">https://doi.org/10.1016/j.jvcir.2015.12.011</A>. </font>
 
 
 
