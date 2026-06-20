@@ -7,7 +7,6 @@ author_profile: false
 
 
 ### Submitted/In preparation
-1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry-aware style transfer in 3D Gaussian splatting," 2026 (Submitted). </font>
 
 1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, <b>Se-Ho Lee</b>, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," 2026 (Submitted). </font>
 
@@ -46,6 +45,7 @@ author_profile: false
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>Journal of Visual Communication and Image Representation</i>, vol. 35, pp. 169-183, Feb. 2016, <A href = "https://doi.org/10.1016/j.jvcir.2015.12.011">https://doi.org/10.1016/j.jvcir.2015.12.011</A>. </font>
 
 ### Conference Papers
+1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ICCV</b></i>, Sep. 2026 (Accepted). </font>
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> <span style="font-size:0.8em">
     [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_FedWSQ_Efficient_Federated_Learning_with_Weight_Standardization_and_Distribution-Aware_Non-Uniform_ICCV_2025_paper.pdf">Paper</a>]
