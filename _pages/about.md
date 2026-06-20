@@ -31,13 +31,14 @@ Contact Us
 
 Latest News
 =====
+1. Jun. 2026 - <b>Accepted</b>. "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>ECCV</b></i>. This work marks our lab’s first student-led publication at a top-tier computer vision conference. Congratulations to Min Hyeok Bang and Jun Hyeong Kim on this outstanding achievement!
 1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by INNOPOLIS (연구개발특구진흥재단).
 1. Apr. 2026 - A patent registered. "동영상 모아레 제거 네트워크 장치," Patent No. 10-2951598. This marks our lab’s first student-led patent registration.
 1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by the National Forensic Service (NFS; 국립과학수사연구원).
 1. Apr. 2026 - <b>Accepted</b>. "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," <i><b>IEEE Transactions on Circuits and Systems for Video Technology</b></i>.
 1. Mar. 2026 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by the National Research Foundation (NRF) of Korea (우수신진연구).
 1. Jul. 2025 - <b>Accepted</b>. "<a href="https://doi.org/10.1109/TMM.2026.3654419">Image enhancement based on pigment representation</a>," <i><b>IEEE Transactions on Multimedia</b></i>.
-1. Jun. 2025 - <b>Accepted</b>. "<A href = "https://doi.org/10.1109/LSP.2025.3585820">Adaptive video demoiréing network with subtraction-guided alignment</A>," IEEE Signal Processing Letters. This marks our lab’s first student-led publication. We are pleased to share two consecutive days of good news.
+1. Jun. 2025 - <b>Accepted</b>. "<A href = "https://doi.org/10.1109/LSP.2025.3585820">Adaptive video demoiréing network with subtraction-guided alignment</A>," IEEE Signal Processing Letters. This marks our lab’s first student-led publication. Congratulations to Seung-Hun Ok on this achievement.
 1. Jun. 2025 - <b>Accepted</b>. "<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_FedWSQ_Efficient_Federated_Learning_with_Weight_Standardization_and_Distribution-Aware_Non-Uniform_ICCV_2025_paper.pdf">FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization</a>," <i><b>ICCV</b></i>. This is our lab's first top-tier conference paper at JBNU.
 1. Nov. 2024 - <b>Accepted</b>. "<A href = "https://doi.org/10.1049/ell2.70098"> Enhanced blur-robust monocular depth estimation via self-supervised learning</A>," Electronic Letters.
 1. Oct. 2024 - <b>Accepted</b>. "<A href = "https://doi.org/10.1016/j.jvcir.2024.104308"> DCPNet: Deformable control point network for image enhancement</A>," Journal of Visual Communication and Image Representation.
