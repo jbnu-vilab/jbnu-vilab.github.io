@@ -102,37 +102,37 @@ author_profile: false
 
 ### International Granted Patents
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Image restoration methods and image restoration devices, " Patent No. CN 112750085 B, Jan., 2026. </font>
+1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Image restoration methods and image restoration devices, " Patent No. CN 112750085 B, Jan., 2026. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. EP 4050553 B1, Oct., 2025. </font>
+1. <font size="3em" color="black"> Seho Lee, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. EP 4050553 B1, Oct., 2025. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Apparatus and method for restoring video, " Patent No. JP 7687790 B2, Jun., 2025. </font>
+1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Apparatus and method for restoring video, " Patent No. JP 7687790 B2, Jun., 2025. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. EP 3944182 B1, Feb., 2025. </font>
+1. <font size="3em" color="black"> Seho Lee, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. EP 3944182 B1, Feb., 2025. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 12073534 B2, Aug., 2024. </font>
+1. <font size="3em" color="black"> Seho Lee, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 12073534 B2, Aug., 2024. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug., 2023. </font>
+1. <font size="3em" color="black"> Seho Lee, Seok Lee, and Deokyoung Kang, "Method and device for restoring image obtained from array camera, " Patent No. US 11734877 B2, Aug., 2023. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May, 2023. </font>
+1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. US 11663691 B2, May, 2023. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 11651475 B2, May, 2023. </font>
+1. <font size="3em" color="black"> Seho Lee, Dong Kyung Nam, and Seok Lee, "Image restoration method and device, " Patent No. US 11651475 B2, May, 2023. </font>
 
-1. <font size="3em" color="black"> <b>Seho Lee</b>, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. EP 3816929 B1, Nov., 2022. </font>
+1. <font size="3em" color="black"> Seho Lee, Yang Ho Cho, and Deokyoung Kang, "Method and apparatus for restoring image, " Patent No. EP 3816929 B1, Nov., 2022. </font>
 
 
 
 ### Korean Granted Patents
-1. <font size="3em" color="black"> 옥승헌, <b>이세호</b>, "동영상 모아레 제거 네트워크 장치," Patent No. 10-2951598, Apr. 2026. </font>
+1. <font size="3em" color="black"> 옥승헌, 이세호, "동영상 모아레 제거 네트워크 장치," Patent No. 10-2951598, Apr. 2026. </font>
 
-1. <font size="3em" color="black"> <b>이세호</b>, 남동경, 이석, "영상 복원 장치 및 방법," Patent No. 10-2801383, Apr. 2025. </font>
+1. <font size="3em" color="black"> 이세호, 남동경, 이석, "영상 복원 장치 및 방법," Patent No. 10-2801383, Apr. 2025. </font>
 
-1. <font size="3em" color="black"> <b>이세호</b>, 조양호, 강덕영, "멀티 렌즈 영상 복원 장치 및 방법," Patent No. 10-2680385, Jul. 2024. </font>
+1. <font size="3em" color="black"> 이세호, 조양호, 강덕영, "멀티 렌즈 영상 복원 장치 및 방법," Patent No. 10-2680385, Jul. 2024. </font>
 
-1. <font size="3em" color="black"> 김세훈, 최원희, 김창수, <b>이세호</b>, 고영준, 김영배, "영상 개선 장치 및 영상 개선 방법," Patent No. 10-2055253, Dec. 2019. </font>
+1. <font size="3em" color="black"> 김세훈, 최원희, 김창수, 이세호, 고영준, 김영배, "영상 개선 장치 및 영상 개선 방법," Patent No. 10-2055253, Dec. 2019. </font>
 
-1. <font size="3em" color="black"> 박병관, 김창수, 장원동, <b>이세호</b>, 김영배, "다중 랜덤 워크 기반의 영상 분할 방법 및 장치," Patent No. 10-1934358, Dec. 2018. </font>
+1. <font size="3em" color="black"> 박병관, 김창수, 장원동, 이세호, 김영배, "다중 랜덤 워크 기반의 영상 분할 방법 및 장치," Patent No. 10-1934358, Dec. 2018. </font>
 
-1. <font size="3em" color="black"> 곽영진, 김창수, <b>이세호</b>, 김대희, 김진환, 최광표, 고영준, 이철우, "영상 데이터 처리 방법 및 디바이스, " Patent No. 10-1585059, Jan. 2016. </font>
+1. <font size="3em" color="black"> 곽영진, 김창수, 이세호, 김대희, 김진환, 최광표, 고영준, 이철우, "영상 데이터 처리 방법 및 디바이스, " Patent No. 10-1585059, Jan. 2016. </font>
 
 
