@@ -17,7 +17,30 @@ author_profile: false
 
 
 
+### Conference Papers
+1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ICCV</b></i>, Sep. 2026 (Accepted). </font>
 
+1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> <span style="font-size:0.8em">
+    [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_FedWSQ_Efficient_Federated_Learning_with_Weight_Standardization_and_Distribution-Aware_Non-Uniform_ICCV_2025_paper.pdf">Paper</a>]
+    [<a href="https://github.com/Seongyeol-kim/FedWSQ">Code</a>] 
+    [<a href="https://arxiv.org/html/2506.23516v1">Project Page</a>]
+  </span>
+  
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i><b>in Proc. ICCV</b></i>, Venice, Italy, Oct. 2017. </font>
+
+1. <font size="3em" color="black"> Chang-Su Kim, Whan Choi, and <b>Se-Ho Lee</b>, "Video codec classification for video bitstreams," <i>in Proc. ITC-CSCC</i>, Busan, Korea, Jul. 2017. </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Contour-constrained superpixels for image and video processing," <i><b>in Proc. CVPR</b></i>, Honolulu, Hawaii, Jul. 2017. </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, Byung Kwan Park, and Chang-Su Kim, "RGB-D image segmentation based on multiple random walkers," <i>in Proc. ICIP</i>, Phoenix, Arizona, Sep. 2016. </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "RGB-D image segmentation based on random walk with restart," <i>in Proc. International Workshop on Advanced Image Technology</i>, Busan, Korea, Jan. 2016. </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Jin-Hwan Kim, Kwang Pyo Choi, Jae-Young Sim, and Chang-Su Kim, "Video saliency detection based on spatiotemporal feature learning," <i>in Proc. IEEE ICIP</i>, Paris, France, Oct. 2014. </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Tae-Young Chung, Jae-Young Sim, and Chang-Su Kim, "Efficient depth map recovery using concurrent object boundaries in texture and depth images," <i>in Proc. APSIPA ASC</i>, Kaohsiung, Taiwan, Oct. 2013. </font>
+
+1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Seong-Gyun Jeong, Tae-Young Chung, and Chang-Su Kim, "Real-time acquisition and representation of 3D environmental data," <i>in Proc. APSIPA ASC</i>, Hollywood, CA, Dec. 2012. </font>
 
 
 ### Journal Articles
@@ -44,30 +67,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Je-Won Kang, and Chang-Su Kim, "Compressed domain video saliency detection using global and local spatiotemporal features," <i>Journal of Visual Communication and Image Representation</i>, vol. 35, pp. 169-183, Feb. 2016, <A href = "https://doi.org/10.1016/j.jvcir.2015.12.011">https://doi.org/10.1016/j.jvcir.2015.12.011</A>. </font>
 
-### Conference Papers
-1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and <b>Se-Ho Lee</b>, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ICCV</b></i>, Sep. 2026 (Accepted). </font>
 
-1. <font size="3em" color="black"> Seung-Wook Kim, Seongyeol Kim, Jiah Kim, Seowon Ji, and <b>Se-Ho Lee</b>, "FedWSQ: Efficient federated learning with weight standardization and distribution-aware non-uniform quantization," <i><b>in Proc. ICCV</b></i>, Honolulu, Hawaii, Oct. 2025. </font> <span style="font-size:0.8em">
-    [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_FedWSQ_Efficient_Federated_Learning_with_Weight_Standardization_and_Distribution-Aware_Non-Uniform_ICCV_2025_paper.pdf">Paper</a>]
-    [<a href="https://github.com/Seongyeol-kim/FedWSQ">Code</a>] 
-    [<a href="https://arxiv.org/html/2506.23516v1">Project Page</a>]
-  </span>
-  
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Temporal superpixels based on proximity-weighted patch matching," <i><b>in Proc. ICCV</b></i>, Venice, Italy, Oct. 2017. </font>
-
-1. <font size="3em" color="black"> Chang-Su Kim, Whan Choi, and <b>Se-Ho Lee</b>, "Video codec classification for video bitstreams," <i>in Proc. ITC-CSCC</i>, Busan, Korea, Jul. 2017. </font>
-
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "Contour-constrained superpixels for image and video processing," <i><b>in Proc. CVPR</b></i>, Honolulu, Hawaii, Jul. 2017. </font>
-
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, Byung Kwan Park, and Chang-Su Kim, "RGB-D image segmentation based on multiple random walkers," <i>in Proc. ICIP</i>, Phoenix, Arizona, Sep. 2016. </font>
-
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Won-Dong Jang, and Chang-Su Kim, "RGB-D image segmentation based on random walk with restart," <i>in Proc. International Workshop on Advanced Image Technology</i>, Busan, Korea, Jan. 2016. </font>
-
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Jin-Hwan Kim, Kwang Pyo Choi, Jae-Young Sim, and Chang-Su Kim, "Video saliency detection based on spatiotemporal feature learning," <i>in Proc. IEEE ICIP</i>, Paris, France, Oct. 2014. </font>
-
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Tae-Young Chung, Jae-Young Sim, and Chang-Su Kim, "Efficient depth map recovery using concurrent object boundaries in texture and depth images," <i>in Proc. APSIPA ASC</i>, Kaohsiung, Taiwan, Oct. 2013. </font>
-
-1. <font size="3em" color="black"> <b>Se-Ho Lee</b>, Seong-Gyun Jeong, Tae-Young Chung, and Chang-Su Kim, "Real-time acquisition and representation of 3D environmental data," <i>in Proc. APSIPA ASC</i>, Hollywood, CA, Dec. 2012. </font>
 
 ### Domestic Papers
 
