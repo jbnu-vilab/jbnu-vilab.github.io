@@ -15,7 +15,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and Se-Ho Lee, "Stabilizing federated learning using structured gradient regularization of weight standardization," 2026 (Submitted). </font>
 
-1. <font size="3em" color="black"> Yejun So, Seung-Wook Kim, Se-Ho Lee, and Keunsoo Ko  "EGFace: Eigenface-Guided Face Obfuscation," 2026 (Submitted). </font> 
+1. <font size="3em" color="black"> Yejun So, Seung-Wook Kim, Se-Ho Lee, and Keunsoo Ko, "EGFace: Eigenface-Guided Face Obfuscation," 2026 (Submitted). </font> 
 
 
 
