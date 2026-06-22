@@ -29,7 +29,7 @@ Contact Us
 * Professor office: # 425, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
 * Visual Intelligence Lab: # 510, 7th Engineering Building, Jeonbuk National University, 567 Baekje-daero, deokjin-gu, Jeonju-si, Jeollabuk-do 54896 Republic of Korea
 
-Latest News
+News & Highlights
 =====
 1. Jun. 2026 - <b>Accepted</b>. "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>ECCV</b></i>. This work marks our lab’s first student-led publication at a top-tier computer vision conference. Congratulations to Min Hyeok Bang and Jun Hyeong Kim on this outstanding achievement!
 1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by INNOPOLIS (연구개발특구진흥재단).
