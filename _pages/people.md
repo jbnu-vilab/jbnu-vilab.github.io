@@ -115,19 +115,7 @@ author_profile: false
 &nbsp;
 
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hwang.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Seunwoo Hwang (황선우)</b></p>
-<p style="line-height: 1.5;">09.2025 ~ Present</p>
-<p style="line-height: 1.5;">swh06084 [at] gmail.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: 3D Reconstruction </p>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/이정민.jpg" width="130" >
@@ -135,7 +123,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Jeong Min Lee (이정민)</b></p>
 <p style="line-height: 1.5;">03.2026 ~ Present</p>
 <p style="line-height: 1.5;">leejm7239 [at] naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD </p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Gaussian Splatting </p>
 
 &nbsp;
 
@@ -150,7 +138,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Seon Woo Cheon (천선우)</b></p>
 <p style="line-height: 1.5;">03.2026 ~ Present</p>
 <p style="line-height: 1.5;">csunwoo02 [at] gmail.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD </p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Gaussian Splatting </p>
 
 &nbsp;
 
@@ -166,7 +154,7 @@ author_profile: false
 <p style="line-height: 1.5;"><b>Ijin Jo (조이진)</b></p>
 <p style="line-height: 1.5;">03.2026 ~ Present</p>
 <p style="line-height: 1.5;">se1106 [at] jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD </p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement </p>
 
 &nbsp;
 
@@ -180,7 +168,21 @@ author_profile: false
 <p style="line-height: 1.5;"><b>JiWoo Wi (위지우)</b></p>
 <p style="line-height: 1.5;">03.2026 ~ Present</p>
 <p style="line-height: 1.5;">wiju13 [at] naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: TBD </p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement </p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div style="width:150px; height:224px; float:left;">
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hwang.jpg" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>HyeMin Hwang (황혜민)</b></p>
+<p style="line-height: 1.5;">05.2026 ~ Present</p>
+<p style="line-height: 1.5;">hyeminh3355 [at] gmail.com</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement </p>
 
 &nbsp;
 
