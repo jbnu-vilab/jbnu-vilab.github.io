@@ -9,6 +9,7 @@ author_profile: false
 1. <font size="3em" color="black"> "모바일과 IoT 기기를 위한 딥페이크 대응 통합 프레임워크 개발," 한국연구재단 신진연구, 03/2026-02/2029. </font>
 1. <font size="3em" color="black"> "딥러닝 기반 디무아레 기법 개발," 국립과학수사연구원, 04/2026-11/2026. </font>
 1. <font size="3em" color="black"> "MRI 신경 영상을 활용한 비전 AI 기반 치매 조기 진단 기술," 2026년 전북특구 전략기술 연구성과 사업화 지원, 04/2026-12/2027. </font>
+1. <font size="3em" color="black"> "4단계 두뇌한국(BK)21 사업," 한국연구재단, 09/2024-Present. </font>
 
 
 ### Completed Projects
