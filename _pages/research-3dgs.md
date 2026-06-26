@@ -26,4 +26,4 @@ The core component is geometry-aware contrastive feature matching (GCFM), which 
 
 **Publications**
 
-- Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and Se-Ho Lee, "Geometry-aware style transfer in 3D Gaussian splatting," *in Proc. European Conference on Computer Vision (ECCV)*, Sep. 2026 (Accepted). [[Paper]()] [[Code](https://github.com/oweixx/gast)]
+- Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and Se-Ho Lee, "Geometry-aware style transfer in 3D Gaussian splatting," *in Proc. European Conference on Computer Vision (ECCV)*, Sep. 2026 (Accepted). [[Paper](https://arxiv.org/abs/2606.24144)] [[Code](https://github.com/oweixx/gast)] [[Project Page](https://kjun627.github.io/gast-web/)]
