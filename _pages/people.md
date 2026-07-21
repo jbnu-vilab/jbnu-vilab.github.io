@@ -179,7 +179,7 @@ author_profile: false
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/hwang.jpg" width="130" >
 </div>
-<p style="line-height: 1.5;"><b>HyeMin Hwang (황혜민)</b></p>
+<p style="line-height: 1.5;"><b>Hye-Min Hwang (황혜민)</b></p>
 <p style="line-height: 1.5;">05.2026 ~ Present</p>
 <p style="line-height: 1.5;">hyeminh3355 [at] gmail.com</p>
 <p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement </p>
