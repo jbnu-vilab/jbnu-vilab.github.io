@@ -8,6 +8,10 @@ author_profile: false
 
 ### Submitted/In preparation
 
+1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, “Image restoration via contrastive learning with learnable distortion amplitude
+decomposition for negative sampling,” 2026 (Submitted). </font>
+
+
 1. <font size="3em" color="black"> Jin-Hwan Kim, Se-Ho Lee, and Chul Lee, “Bilateral frame recovery for damaged reference frames in compressed videos,” 2026 (Submitted). </font>
 
 1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, Se-Ho Lee, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," 2026 (Submitted). </font>
