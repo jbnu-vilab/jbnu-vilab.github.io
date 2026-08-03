@@ -117,20 +117,6 @@ author_profile: false
 
 
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/이정민.jpg" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Jeong Min Lee (이정민)</b></p>
-<p style="line-height: 1.5;">03.2026 ~ Present</p>
-<p style="line-height: 1.5;">leejm7239 [at] naver.com</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Gaussian Splatting </p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 
 <div style="width:150px; height:224px; float:left;">
 <img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/천선우.png" width="130" >
