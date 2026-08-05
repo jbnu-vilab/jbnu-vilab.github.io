@@ -14,8 +14,6 @@ author_profile: false
 decomposition for negative sampling,” 2026 (Submitted). </font>
 
 
-1. <font size="3em" color="black"> Jin-Hwan Kim, Se-Ho Lee, and Chul Lee, “Bilateral frame recovery for damaged reference frames in compressed videos,” 2026 (Submitted). </font>
-
 1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, Se-Ho Lee, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," 2026 (Submitted). </font>
 
 
@@ -23,6 +21,7 @@ decomposition for negative sampling,” 2026 (Submitted). </font>
 
 1. <font size="3em" color="black"> Yejun So, Seung-Wook Kim, Se-Ho Lee, and Keunsoo Ko, "EGFace: Eigenface-Guided Face Obfuscation," 2026 (Submitted). </font> 
 
+1. <font size="3em" color="black"> Jin-Hwan Kim, Se-Ho Lee, and Chul Lee, “Bilateral frame recovery for damaged reference frames in compressed videos,” 2026 (Accepted). </font>
 
 
 ### Conference Papers
