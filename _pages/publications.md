@@ -55,7 +55,7 @@ decomposition for negative sampling,” 2026 (Submitted). </font>
 
 
 ### Journal Articles
-1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," <i><b>IEEE Transactions on Circuits and Systems for Video Technology</b></i>, 2026 (Early access). </font> <a href="https://doi.org/10.1109/TCSVT.2026.3681919">https://doi.org/10.1109/TCSVT.2026.3681919</a>. <span style="font-size:0.8em"> [<a href="https://github.com/nhduong/contrastive-demoire">Project Page</a>]
+1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," <i><b>IEEE Transactions on Circuits and Systems for Video Technology</b></i>, Apr., 2026. </font> <a href="https://doi.org/10.1109/TCSVT.2026.3681919">https://doi.org/10.1109/TCSVT.2026.3681919</a>. <span style="font-size:0.8em"> [<a href="https://github.com/nhduong/contrastive-demoire">Project Page</a>]
 
 1. <font size="3em" color="black"> Se-Ho Lee, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, vol. 28, pp. 4042-4055, Jan., 2026, <a href="https://doi.org/10.1109/TMM.2026.3654419">https://doi.org/10.1109/TMM.2026.3654419</a>. </font> <span style="font-size:0.8em">
     [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project Page</a>]
