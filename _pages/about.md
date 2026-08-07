@@ -15,12 +15,9 @@ redirect_from:
 Research Interests
 ======
 * 3D Gaussian Splatting
-* Federated Learning
-* Depth Estimation
-* Diffusion Model
+* Style Transfer
 * Image Enhancement
 * Image/Video Demoiréing
-* Image Quality Assessment
 
 Contact Us
 =====
