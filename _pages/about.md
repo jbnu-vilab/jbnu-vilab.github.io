@@ -28,6 +28,7 @@ Contact Us
 
 News & Highlights
 =====
+1. Aug. 2026 -  <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by Institute of Information & communications Technology Planning & Evaluation (IITP) (AI최고급신진연구자지원/AI스타펠로우십지원).
 1. Jun. 2026 - <b>Accepted</b>. "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>ECCV</b></i>. This work marks our lab’s first student-led publication at a top-tier computer vision conference. Congratulations to Min Hyeok Bang and Jun Hyeong Kim on this outstanding achievement!
 1. Apr. 2026 - <A href = "https://jbnu-vilab.github.io/projects/" >A new grant</A> awarded by INNOPOLIS (연구개발특구진흥재단).
 1. Apr. 2026 - A patent registered. "동영상 모아레 제거 네트워크 장치," Patent No. 10-2951598. This marks our lab’s first student-led patent registration.
