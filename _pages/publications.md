@@ -81,6 +81,8 @@ author_profile: false
 
 ### Domestic Papers
 
+1. <font size="3em" color="black"> 김민령, 방민혁, 이세호, "3차원 가우시안 스플래팅의 멀티모달 색상-기하 분리 스타일 전이, " 제36회 인공지능신호처리 학술대회, 2026, 9월. </font>
+
 1. <font size="3em" color="black"> 이의재, 이세호, "공간  적응형  피그먼트  표현  기반  이미지  개선  방법, " 2025년 한국방송·미디어공학회 동계학술대회, 2025, 12월. </font>
 
 1. <font size="3em" color="black"> 이세호, "적응적 필터링을 통한 모아레 제거 방법, " 한국통신학회 논문지, 2025, 8월. </font>
