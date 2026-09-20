@@ -10,7 +10,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> Jun Hyeong Kim, Min Hyeok Bang, Seon Woo Cheon, Seung-Wook Kim, and Se-Ho Lee, "Material-aware style transfer for relightable Gaussian (tentative title)," 2027 (In preparation). </font>
 
-1. <font size="3em" color="black"> Seung-Hun Ok, Min Hyeok Bang, Jin-Hwan Kim, and Se-Ho Lee, “Video demoiréing via pseudo-moiré-guided decomposition learning (tentative title),” 2027 (In preparation). </font>
+1. <font size="3em" color="black"> Seung-Hun Ok, Min Hyeok Bang, Jin-Hwan Kim, Chul Lee, and Se-Ho Lee, “Video demoiréing via pseudo-moiré-guided decomposition learning (tentative title),” 2027 (In preparation). </font>
 
 1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, “Image restoration via contrastive learning with learnable distortion amplitude decomposition for negative sampling,” 2026 (Submitted). </font>
 
