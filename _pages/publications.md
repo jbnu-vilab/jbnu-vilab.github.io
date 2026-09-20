@@ -24,8 +24,8 @@ author_profile: false
 
 
 ### Conference Papers
-1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and Se-Ho Lee, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ECCV</b></i>, Sep., 2026 (Accepted). </font> <span style="font-size:0.8em">
-    [<a href="https://arxiv.org/abs/2606.24144">Paper</a>]
+1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and Se-Ho Lee, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ECCV</b></i>, Sep., 2026. </font> <span style="font-size:0.8em">
+    [<a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4798.pdf">Paper</a>]
     [<a href="https://github.com/oweixx/gast">Code</a>] 
     [<a href="https://kjun627.github.io/gast-web/">Project Page</a>]
   </span>
