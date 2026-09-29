@@ -56,7 +56,7 @@ author_profile: false
 
 
 ### Journal Articles
-1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," <i><b>IEEE Transactions on Circuits and Systems for Video Technology</b></i>, Apr., 2026. </font> <a href="https://doi.org/10.1109/TCSVT.2026.3681919">https://doi.org/10.1109/TCSVT.2026.3681919</a>. <span style="font-size:0.8em"> [<a href="https://github.com/nhduong/contrastive-demoire">Project Page</a>]
+1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, "High-resolution screenshot demoiréing with auxiliary negative sample generation-based contrastive learning," <i><b>IEEE Transactions on Circuits and Systems for Video Technology</b></i>, vol. 36, no. 8, pp. 11654-11669, Apr., 2026. </font> <a href="https://doi.org/10.1109/TCSVT.2026.3681919">https://doi.org/10.1109/TCSVT.2026.3681919</a>. <span style="font-size:0.8em"> [<a href="https://github.com/nhduong/contrastive-demoire">Project Page</a>]
 
 1. <font size="3em" color="black"> Se-Ho Lee, Keunsoo Koh, and Seung-Wook Kim, "Image enhancement based on pigment representation," <i><b>IEEE Transactions on Multimedia</b></i>, vol. 28, pp. 4042-4055, Jan., 2026, <a href="https://doi.org/10.1109/TMM.2026.3654419">https://doi.org/10.1109/TMM.2026.3654419</a>. </font> <span style="font-size:0.8em">
     [<a href="https://github.com/jbnu-vilab/pigment_enhancement">Project Page</a>]
@@ -93,7 +93,7 @@ author_profile: false
 
 1. <font size="3em" color="black"> 정혜린, 이세호, "비전 트랜스포머 기반의 영상 화질 개선 방법," 대한전자공학회 2023년도 하계종합학술대회, 2023, 6월. </font>
 
-1. <font size="3em" color="black"> 이세호, "블라인드 영상 화질 평가 기술의 최신 연구 동향, " 전자공학회지, vol.49, no.9, pp. 40-48, 2022, 9월. </font>
+1. <font size="3em" color="black"> 이세호, "블라인드 영상 화질 평가 기술의 최신 연구 동향, " 전자공학회지, vol. 49, no. 9, pp. 40-48, 2022, 9월. </font>
 
 1. <font size="3em" color="black"> 이선호, 김지수, 이세호, 김창수, "그래프 간 정합을 이용한 포인트 클라우드 시퀀스 압축," 2018 한국방송미디어공학회 하계학술대회, 2018, 6월. </font>
 
