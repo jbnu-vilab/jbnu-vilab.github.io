@@ -164,6 +164,20 @@ author_profile: false
 
 &nbsp;
 
+<div style="width:150px; height:224px; float:left;">
+<img src="" width="130" >
+</div>
+<p style="line-height: 1.5;"><b>Jong-Min Kim (김종민)</b></p>
+<p style="line-height: 1.5;">08.2026 ~ Present</p>
+<p style="line-height: 1.5;">kimkim5714 [at] jbnu.ac.kr</p>
+<p style="line-height: 1.5;"><b>Research Area</b>: Gaussian Splatting </p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## Alumni
 
 <div style="width:150px; height:224px; float:left;">
