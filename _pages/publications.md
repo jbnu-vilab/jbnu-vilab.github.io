@@ -8,6 +8,9 @@ author_profile: false
 
 ### Submitted/In preparation
 
+
+1. <font size="3em" color="black"> Jiho Pyo, Seung-Wook Kim, and Se-Ho Lee, "Persistent parametric human state inference for mmWave human mesh reconstruction (tentative title)," (In preparation). </font>
+
 1. <font size="3em" color="black"> Jun Hyeong Kim, Min Hyeok Bang, Seon Woo Cheon, Seung-Wook Kim, and Se-Ho Lee, "Material-aware style transfer for relightable Gaussian (tentative title)," (In preparation). </font>
 
 1. <font size="3em" color="black"> Seung-Hun Ok, Min Hyeok Bang, Jin-Hwan Kim, Chul Lee, and Se-Ho Lee, “Video demoiréing via pseudo-moiré-guided decomposition learning (tentative title),” (In preparation). </font>
