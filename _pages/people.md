@@ -134,19 +134,6 @@ author_profile: false
 
 
 
-<div style="width:150px; height:224px; float:left;">
-<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/조이진.png" width="130" >
-</div>
-<p style="line-height: 1.5;"><b>Ijin Jo (조이진)</b></p>
-<p style="line-height: 1.5;">03.2026 ~ Present</p>
-<p style="line-height: 1.5;">se1106 [at] jbnu.ac.kr</p>
-<p style="line-height: 1.5;"><b>Research Area</b>: Image Enhancement </p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 
 
