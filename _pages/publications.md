@@ -15,11 +15,11 @@ author_profile: false
 
 <!-- 1. <font size="3em" color="black"> Seung-Hun Ok, Min Hyeok Bang, Jin-Hwan Kim, Chul Lee, and Se-Ho Lee, “Video demoiréing via pseudo-moiré-guided decomposition learning (tentative title),” (In preparation). </font> -->
 
-1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, “Image restoration via contrastive learning with learnable distortion amplitude decomposition for negative sampling,” (In preparation). </font>
+<!-- 1. <font size="3em" color="black"> Duong Hai Nguyen, Se-Ho Lee, and Chul Lee, “Image restoration via contrastive learning with learnable distortion amplitude decomposition for negative sampling,” (In preparation). </font> -->
 
 1. <font size="3em" color="black"> Yejun So, Seung-Wook Kim, Se-Ho Lee, and Keunsoo Ko, "EGFace: Eigenface-Guided Face Obfuscation," (In preparation). </font> 
 
-1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, Se-Ho Lee, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," (Submitted). </font>
+<!-- 1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, Se-Ho Lee, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," (Submitted). </font> -->
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and Se-Ho Lee, "Stabilizing federated learning using structured gradient regularization of weight standardization," (Submitted). </font>
 
