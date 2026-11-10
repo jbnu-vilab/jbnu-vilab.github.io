@@ -23,10 +23,12 @@ author_profile: false
 
 1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and Se-Ho Lee, "Stabilizing federated learning using structured gradient regularization of weight standardization," (Submitted). </font>
 
-1. <font size="3em" color="black"> Jin-Hwan Kim, Se-Ho Lee, and Chul Lee, “Bilateral frame recovery for damaged reference frames in compressed videos,” 2026 (Accepted). </font>
+
 
 
 ### Conference Papers
+1. <font size="3em" color="black"> Jin-Hwan Kim, Se-Ho Lee, and Chul Lee, “Bilateral frame recovery for damaged reference frames in compressed videos,” 2026 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2026 </font>
+
 1. <font size="3em" color="black"> Min Hyeok Bang*, Jun Hyeong Kim*, Seung-Wook Kim, and Se-Ho Lee, "Geometry-aware style transfer in 3D Gaussian splatting," <i><b>in Proc. ECCV</b></i>, Sep., 2026. </font> <span style="font-size:0.8em">
     [<a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4798.pdf">Paper</a>]
     [<a href="https://github.com/oweixx/gast">Code</a>] 
