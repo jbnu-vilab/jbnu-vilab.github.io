@@ -21,7 +21,7 @@ author_profile: false
 
 <!-- 1. <font size="3em" color="black"> Jiah Kim, Hoju Shin, Seowon Ji, Se-Ho Lee, and Seung-Wook Kim, "Reweighted mixed sample data augmentation for effective federated learning," (Submitted). </font> -->
 
-1. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and Se-Ho Lee, "Stabilizing federated learning using structured gradient regularization of weight standardization," (Submitted). </font>
+2. <font size="3em" color="black"> Seung-Wook Kim, Keunsoo Koh, and Se-Ho Lee, "Stabilizing federated learning using structured gradient regularization of weight standardization," (Submitted). </font>
 
 
 
